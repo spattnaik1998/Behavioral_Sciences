@@ -1,0 +1,7 @@
+step,n_records
+Raw file (Datafiniti 1429_1),34660
+Rating <= 3,2311
+Non-empty review text,2311
+Duplicate texts removed,2311
+Overlap with main pool removed,1825
+Random sample (seed=42),500

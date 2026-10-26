@@ -1,0 +1,30 @@
+{
+ "provenance": [
+  {
+   "coder": "1",
+   "application": "Google Sheets export",
+   "pct_rows_with_notes": 0.0,
+   "n_rows_coded": 397
+  },
+  {
+   "coder": "2",
+   "application": "Microsoft Macintosh Excel",
+   "pct_rows_with_notes": 0.0,
+   "n_rows_coded": 397
+  }
+ ],
+ "attention": {
+  "1": 11,
+  "2": 12
+ },
+ "n_both": 385,
+ "kappa_forced_choice": 0.803,
+ "alpha_forced_choice": 0.804,
+ "pct_agree_forced_choice": 96.6,
+ "kappa_primary_emotion": 0.661,
+ "alpha_primary_emotion": 0.657,
+ "pct_agree_primary_emotion": 84.9,
+ "kappa_cf_focus": 0.555,
+ "alpha_cf_focus": 0.543,
+ "pct_agree_cf_focus": 83.4
+}

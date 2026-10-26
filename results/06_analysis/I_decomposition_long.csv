@@ -1,0 +1,13 @@
+subset,prompt,knowledge_base,system,n,pct_regret
+paper_sample_100,original prompt,original KB (Mental Accounting only),R0_original_replication,100,17.0
+paper_sample_100,original prompt,revised KB (all PDFs),R1_origprompt_newKB,100,55.00000000000001
+paper_sample_100,revised prompt,original KB (Mental Accounting only),R2_newprompt_origKB,100,0.0
+paper_sample_100,revised prompt,revised KB (all PDFs),C3_rag_full,100,4.0
+annotation_random,original prompt,original KB (Mental Accounting only),R0_original_replication,200,21.5
+annotation_random,original prompt,revised KB (all PDFs),R1_origprompt_newKB,200,56.00000000000001
+annotation_random,revised prompt,original KB (Mental Accounting only),R2_newprompt_origKB,200,2.5
+annotation_random,revised prompt,revised KB (all PDFs),C3_rag_full,200,3.5000000000000004
+annotation_all,original prompt,original KB (Mental Accounting only),R0_original_replication,285,38.24561403508772
+annotation_all,original prompt,revised KB (all PDFs),R1_origprompt_newKB,285,64.91228070175438
+annotation_all,revised prompt,original KB (Mental Accounting only),R2_newprompt_origKB,285,10.87719298245614
+annotation_all,revised prompt,revised KB (all PDFs),C3_rag_full,285,11.228070175438596

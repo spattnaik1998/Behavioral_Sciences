@@ -1,0 +1,174 @@
+==============================================================================
+C0 labels only (no retrieval, no definitions)
+==============================================================================
+[system]
+You are an expert in behavioral economics.
+
+[user]
+Customer Review:
+<REVIEW TEXT>
+
+Classify the emotion expressed in the customer review as either REGRET or DISAPPOINTMENT.
+
+Respond with JSON only:
+{"emotion": "REGRET" or "DISAPPOINTMENT", "confidence": <number between 0 and 1>, "rationale": "<one sentence>"}
+
+==============================================================================
+C1 definitions (no retrieval)
+==============================================================================
+[system]
+You are an expert in behavioral economics.
+
+[user]
+Customer Review:
+<REVIEW TEXT>
+
+Classify the emotion expressed in the customer review as either REGRET or DISAPPOINTMENT, using these definitions:
+REGRET: Personal responsibility, "I should have done differently"
+DISAPPOINTMENT: External factors, "It should have been better"
+
+Respond with JSON only:
+{"emotion": "REGRET" or "DISAPPOINTMENT", "confidence": <number between 0 and 1>, "rationale": "<one sentence>"}
+
+==============================================================================
+C2 RAG without definitions
+==============================================================================
+[system]
+You are an expert in behavioral economics.
+
+[user]
+Context from literature:
+<RETRIEVED CHUNKS>
+
+Customer Review:
+<REVIEW TEXT>
+
+Classify the emotion expressed in the customer review as either REGRET or DISAPPOINTMENT.
+
+Respond with JSON only:
+{"emotion": "REGRET" or "DISAPPOINTMENT", "confidence": <number between 0 and 1>, "rationale": "<one sentence>"}
+
+==============================================================================
+C3 RAG with definitions (proposed)
+==============================================================================
+[system]
+You are an expert in behavioral economics.
+
+[user]
+Context from literature:
+<RETRIEVED CHUNKS>
+
+Customer Review:
+<REVIEW TEXT>
+
+Classify the emotion expressed in the customer review as either REGRET or DISAPPOINTMENT, using these definitions:
+REGRET: Personal responsibility, "I should have done differently"
+DISAPPOINTMENT: External factors, "It should have been better"
+
+Respond with JSON only:
+{"emotion": "REGRET" or "DISAPPOINTMENT", "confidence": <number between 0 and 1>, "rationale": "<one sentence>"}
+
+==============================================================================
+Original paper prompt (replication)
+==============================================================================
+[user]
+You are an expert in behavioral economics.
+
+Context: <RETRIEVED CHUNKS>
+Review: <REVIEW TEXT>
+
+REGRET: Personal responsibility, "I should have..."
+DISAPPOINTMENT: External factors, "It should have..."
+
+Respond with JSON only:
+{"emotion": "REGRET" or "DISAPPOINTMENT", "confidence": 0.X}
+
+
+==============================================================================
+RDS dimensional assessment
+==============================================================================
+[user]
+Rate this review (1-7 scale):
+
+Review: <REVIEW TEXT>
+
+1. Counterfactual Thinking (1=none, 7=extensive)
+2. Personal Responsibility (1=external, 7=personal)
+3. Controllability (1=uncontrollable, 7=controllable)
+4. Negative Affect (1=mild, 7=intense)
+
+JSON only:
+{"counterfactual": X, "responsibility": X, "controllability": X, "affect": X}
+
+
+==============================================================================
+Counterfactual focus
+==============================================================================
+[user]
+Read the customer review and identify counterfactual thinking ("if only...", "should have...", "wish...").
+
+Review: <REVIEW TEXT>
+
+Classify the PRIMARY focus of the counterfactual thinking:
+BEHAVIOR  - centred on the reviewer's own actions or choices ("If only I had bought another brand", "I should have read the reviews")
+SITUATION - centred on the product, seller or circumstances ("If only it had lasted longer", "It should have worked out of the box")
+NONE      - no counterfactual thinking is expressed
+
+Respond with JSON only:
+{"focus": "BEHAVIOR" or "SITUATION" or "NONE", "evidence": "<short quote from the review, or empty>"}
+
+
+==============================================================================
+Speculative RAG - drafter
+==============================================================================
+[system]
+You are an expert in behavioral economics.
+
+[user]
+Evidence from the behavioral-economics literature:
+<RETRIEVED CHUNKS>
+
+Customer Review:
+<REVIEW TEXT>
+
+Classify the emotion expressed in the customer review as either REGRET or DISAPPOINTMENT, using these definitions:
+REGRET: Personal responsibility, "I should have done differently"
+DISAPPOINTMENT: External factors, "It should have been better"
+
+First write a short rationale grounded in the evidence and the review, then give the answer.
+Respond with JSON only:
+{"rationale": "<1-2 sentences>", "emotion": "REGRET" or "DISAPPOINTMENT"}
+
+==============================================================================
+Speculative RAG - verifier (self-consistency)
+==============================================================================
+[system]
+You are an expert in behavioral economics.
+
+[user]
+Customer Review:
+<REVIEW TEXT>
+
+Classify the emotion expressed in the customer review as either REGRET or DISAPPOINTMENT, using these definitions:
+REGRET: Personal responsibility, "I should have done differently"
+DISAPPOINTMENT: External factors, "It should have been better"
+
+Rationale: <DRAFT RATIONALE>
+
+Respond with JSON only:
+{"emotion": "REGRET" or "DISAPPOINTMENT"}
+
+==============================================================================
+Speculative RAG - verifier (self-reflection)
+==============================================================================
+[system]
+You are an expert in behavioral economics.
+
+[user]
+Customer Review:
+<REVIEW TEXT>
+
+Proposed answer: <DRAFT LABEL>
+Rationale: <DRAFT RATIONALE>
+
+Do you think the rationale supports the answer, yes or no? Answer with a single word: Yes or No.

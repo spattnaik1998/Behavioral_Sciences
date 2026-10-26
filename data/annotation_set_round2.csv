@@ -1,0 +1,386 @@
+review_uid,gold_origin,stratum,stratum_N,stratum_n_coded,weight,reviews.rating,primaryCategories
+P0007,targeted,S1_C3_regret,89,81,1.0987654320987654,3,Health & Beauty
+P0029,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0040,targeted,S3_R0_only_regret,291,71,4.098591549295775,2,Health & Beauty
+P0042,random_new_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0051,targeted,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0056,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0065,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0069,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0070,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0084,targeted,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P0090,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0097,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0099,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0106,targeted,S1_C3_regret,89,81,1.0987654320987654,2,Health & Beauty
+P0107,targeted,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0111,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P0112,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0124,random_paper_sample_100,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0134,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0135,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0142,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0149,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0150,targeted,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P0154,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0155,targeted,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0156,random_new_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0163,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0174,targeted,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0182,targeted,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0188,targeted,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0197,random_new_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0205,targeted,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0206,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0212,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0220,targeted,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0225,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0226,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0233,random_new_100,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0236,targeted,S1_C3_regret,89,81,1.0987654320987654,3,Health & Beauty
+P0251,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0271,targeted,S1_C3_regret,89,81,1.0987654320987654,3,Health & Beauty
+P0275,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0277,targeted,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P0280,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0283,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0298,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0324,random_new_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0325,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0342,random_new_100,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P0352,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0354,random_new_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0356,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0367,targeted,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P0390,targeted,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P0393,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0394,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0411,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0422,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0429,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0433,random_paper_sample_100,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0443,targeted,S1_C3_regret,89,81,1.0987654320987654,2,Health & Beauty
+P0462,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0478,random_new_100,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P0487,targeted,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P0488,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0493,targeted,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0495,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0519,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0523,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0526,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0530,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0535,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0543,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0544,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0554,random_paper_sample_100,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0563,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0567,random_paper_sample_100,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0581,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0584,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0585,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0588,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0590,targeted,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0598,targeted,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0599,targeted,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0607,targeted,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0610,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0619,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0624,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0628,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0632,targeted,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0633,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0646,targeted,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0651,targeted,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0657,targeted,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0661,targeted,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0670,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P0676,targeted,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0678,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0710,targeted,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0721,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0722,targeted,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P0724,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0727,random_new_100,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0739,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,2,Health & Beauty
+P0756,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0764,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0766,targeted,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0774,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0776,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0785,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0792,random_new_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0797,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P0799,random_new_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0808,random_new_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P0809,random_paper_sample_100,S1_C3_regret,89,81,1.0987654320987654,2,Health & Beauty
+P0845,targeted,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P0847,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0851,targeted,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P0855,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0859,random_paper_sample_100,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0864,targeted,S1_C3_regret,89,81,1.0987654320987654,3,Health & Beauty
+P0865,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0867,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0870,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0873,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0883,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0887,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0900,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0904,targeted,S1_C3_regret,89,81,1.0987654320987654,3,Health & Beauty
+P0905,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0906,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0912,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0923,random_paper_sample_100,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0925,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0934,random_new_100,S1_C3_regret,89,81,1.0987654320987654,3,Health & Beauty
+P0953,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0955,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0973,random_paper_sample_100,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0974,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0982,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P0987,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P1001,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P1003,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,2,Health & Beauty
+P1006,targeted,S3_R0_only_regret,291,71,4.098591549295775,2,Health & Beauty
+P1021,targeted,S1_C3_regret,89,81,1.0987654320987654,2,Health & Beauty
+P1022,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P1023,random_new_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P1024,targeted,S3_R0_only_regret,291,71,4.098591549295775,2,Health & Beauty
+P1034,random_paper_sample_100,S3_R0_only_regret,291,71,4.098591549295775,2,Health & Beauty
+P1053,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P1061,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P1070,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P1076,targeted,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1085,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P1089,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P1090,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P1092,targeted,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1096,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P1114,targeted,S1_C3_regret,89,81,1.0987654320987654,2,Health & Beauty
+P1125,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P1137,random_new_100,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1150,targeted,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P1153,targeted,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P1159,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P1167,random_new_100,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P1173,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1185,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P1187,targeted,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P1193,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P1208,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P1218,random_new_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P1229,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P1232,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P1235,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,2,Health & Beauty
+P1241,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P1242,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1254,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P1255,targeted,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P1259,random_new_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P1269,random_new_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P1283,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1289,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P1294,targeted,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P1299,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P1318,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Health & Beauty
+P1325,random_new_100,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1326,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P1334,targeted,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P1336,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P1338,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Health & Beauty
+P1350,random_new_100,S0_rest,1424,141,10.099290780141844,3,Health & Beauty
+P1367,targeted,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P1393,targeted,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1397,random_new_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1403,targeted,S2_C4_only_regret,215,92,2.3369565217391304,3,Electronics
+P1406,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Electronics
+P1416,targeted,S2_C4_only_regret,215,92,2.3369565217391304,3,Electronics
+P1421,targeted,S1_C3_regret,89,81,1.0987654320987654,2,Electronics
+P1430,targeted,S1_C3_regret,89,81,1.0987654320987654,2,Electronics
+P1432,random_new_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1437,random_new_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1442,targeted,S3_R0_only_regret,291,71,4.098591549295775,2,Electronics
+P1450,targeted,S1_C3_regret,89,81,1.0987654320987654,3,Electronics
+P1454,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1469,targeted,S1_C3_regret,89,81,1.0987654320987654,2,Electronics
+P1475,random_new_100,S0_rest,1424,141,10.099290780141844,2,Electronics
+P1477,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1479,targeted,S2_C4_only_regret,215,92,2.3369565217391304,3,Electronics
+P1480,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Electronics
+P1491,random_new_100,S0_rest,1424,141,10.099290780141844,1,Electronics
+P1497,random_paper_sample_100,S3_R0_only_regret,291,71,4.098591549295775,3,Electronics
+P1513,targeted,S2_C4_only_regret,215,92,2.3369565217391304,1,"Toys & Games,Electronics"
+P1517,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Electronics
+P1518,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1526,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,"Toys & Games,Electronics"
+P1536,targeted,S1_C3_regret,89,81,1.0987654320987654,2,Electronics
+P1545,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,3,Electronics
+P1546,random_new_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1548,random_new_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1555,random_new_100,S0_rest,1424,141,10.099290780141844,3,"Toys & Games,Electronics"
+P1556,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1557,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,"Toys & Games,Electronics"
+P1559,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,"Toys & Games,Electronics"
+P1564,random_new_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1590,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,3,Electronics
+P1594,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,"Toys & Games,Electronics"
+P1607,random_paper_sample_100,S1_C3_regret,89,81,1.0987654320987654,2,"Toys & Games,Electronics"
+P1613,random_new_100,S0_rest,1424,141,10.099290780141844,2,"Toys & Games,Electronics"
+P1620,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,3,Electronics
+P1632,targeted,S1_C3_regret,89,81,1.0987654320987654,2,"Toys & Games,Electronics"
+P1645,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,3,"Toys & Games,Electronics"
+P1652,targeted,S3_R0_only_regret,291,71,4.098591549295775,1,"Toys & Games,Electronics"
+P1658,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,3,Electronics
+P1662,random_new_100,S2_C4_only_regret,215,92,2.3369565217391304,3,"Toys & Games,Electronics"
+P1663,targeted,S3_R0_only_regret,291,71,4.098591549295775,1,Electronics
+P1671,random_new_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1672,random_new_100,S0_rest,1424,141,10.099290780141844,2,Electronics
+P1692,random_new_100,S0_rest,1424,141,10.099290780141844,1,Electronics
+P1694,random_paper_sample_100,S3_R0_only_regret,291,71,4.098591549295775,3,"Toys & Games,Electronics"
+P1700,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Electronics
+P1706,random_paper_sample_100,S3_R0_only_regret,291,71,4.098591549295775,2,"Toys & Games,Electronics"
+P1707,random_new_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1711,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,"Toys & Games,Electronics"
+P1712,random_new_100,S0_rest,1424,141,10.099290780141844,1,Electronics
+P1715,random_new_100,S0_rest,1424,141,10.099290780141844,1,Electronics
+P1720,random_new_100,S0_rest,1424,141,10.099290780141844,1,"Toys & Games,Electronics"
+P1722,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Electronics
+P1729,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1741,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Electronics
+P1747,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,2,Electronics
+P1750,random_new_100,S0_rest,1424,141,10.099290780141844,1,"Toys & Games,Electronics"
+P1753,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,"Toys & Games,Electronics"
+P1756,random_paper_sample_100,S2_C4_only_regret,215,92,2.3369565217391304,3,"Toys & Games,Electronics"
+P1760,targeted,S2_C4_only_regret,215,92,2.3369565217391304,3,"Toys & Games,Electronics"
+P1765,random_new_100,S0_rest,1424,141,10.099290780141844,1,Electronics
+P1773,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Electronics
+P1775,random_new_100,S2_C4_only_regret,215,92,2.3369565217391304,3,Electronics
+P1789,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Electronics
+P1790,targeted,S1_C3_regret,89,81,1.0987654320987654,1,Electronics
+P1802,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1826,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1839,random_new_100,S0_rest,1424,141,10.099290780141844,1,Electronics
+P1846,targeted,S1_C3_regret,89,81,1.0987654320987654,1,Electronics
+P1854,random_new_100,S3_R0_only_regret,291,71,4.098591549295775,3,"Office Supplies,Electronics"
+P1859,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,"Office Supplies,Electronics"
+P1865,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1885,random_new_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1903,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1912,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,1,Electronics
+P1924,random_new_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1935,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Electronics
+P1939,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Electronics
+P1940,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,Electronics
+P1942,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Electronics
+P1946,random_new_100,S1_C3_regret,89,81,1.0987654320987654,3,Electronics
+P1950,random_new_100,S0_rest,1424,141,10.099290780141844,2,Electronics
+P1952,targeted,S1_C3_regret,89,81,1.0987654320987654,3,Electronics
+P1960,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Electronics
+P1961,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,Electronics
+P1968,random_new_100,S0_rest,1424,141,10.099290780141844,2,Electronics
+P1973,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,3,"Office Supplies,Electronics"
+P1985,random_paper_sample_100,S0_rest,1424,141,10.099290780141844,2,Electronics
+P1990,random_new_100,S0_rest,1424,141,10.099290780141844,2,"Office Supplies,Electronics"
+P1994,targeted,S1_C3_regret,89,81,1.0987654320987654,1,Electronics
+P1997,targeted,S3_R0_only_regret,291,71,4.098591549295775,3,"Electronics,Media"
+P0026,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,2,Health & Beauty
+P0055,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0093,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0192,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0210,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0214,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,2,Health & Beauty
+P0254,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Health & Beauty
+P0296,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0339,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0343,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,2,Health & Beauty
+P0351,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0490,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,2,Health & Beauty
+P0508,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0529,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Health & Beauty
+P0616,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0714,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P0753,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Health & Beauty
+P0755,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P1015,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,2,Health & Beauty
+P1222,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,2,Health & Beauty
+P1248,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Health & Beauty
+P1256,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P1305,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,2,Health & Beauty
+P1310,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Health & Beauty
+P1381,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Health & Beauty
+P1404,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Electronics
+P1427,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Electronics
+P1449,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Electronics
+P1463,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Electronics
+P1465,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Electronics
+P1468,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Electronics
+P1476,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Electronics
+P1486,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,Electronics
+P1550,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,"Toys & Games,Electronics"
+P1573,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Electronics
+P1603,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Electronics
+P1606,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,1,"Toys & Games,Electronics"
+P1611,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,"Toys & Games,Electronics"
+P1648,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,"Toys & Games,Electronics"
+P1669,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,"Toys & Games,Electronics"
+P1723,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,"Toys & Games,Electronics"
+P1862,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,2,"Office Supplies,Electronics"
+P1876,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Electronics
+P1887,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Electronics
+P1927,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,Electronics
+P1984,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,"Office Supplies,Electronics"
+P1988,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,3,"Office Supplies,Electronics"
+P1996,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,2,Electronics
+P2013,targeted_round2,S1_C3_regret,89,81,1.0987654320987654,2,Electronics
+P1230,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P1279,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P0453,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0337,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0993,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P1246,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0444,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0892,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P0913,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P0183,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1144,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0852,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P1184,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P0278,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P1302,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0803,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1267,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1527,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,3,"Toys & Games,Electronics"
+P0683,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0424,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1563,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,3,"Toys & Games,Electronics"
+P0908,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P0345,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0800,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1889,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,3,Electronics
+P1459,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Electronics
+P0196,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1351,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P1005,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P1200,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0742,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P1680,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,2,"Toys & Games,Electronics"
+P1354,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P0456,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P0811,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,3,Health & Beauty
+P0775,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,1,Health & Beauty
+P1068,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P0483,targeted_round2,S2_C4_only_regret,215,92,2.3369565217391304,2,Health & Beauty
+P1100,targeted_round2,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0564,targeted_round2,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P1851,targeted_round2,S3_R0_only_regret,291,71,4.098591549295775,1,Electronics
+P1366,targeted_round2,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P1455,targeted_round2,S3_R0_only_regret,291,71,4.098591549295775,1,Electronics
+P0946,targeted_round2,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0032,targeted_round2,S3_R0_only_regret,291,71,4.098591549295775,1,Health & Beauty
+P0048,targeted_round2,S3_R0_only_regret,291,71,4.098591549295775,2,Health & Beauty
+P0985,targeted_round2,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P1957,targeted_round2,S3_R0_only_regret,291,71,4.098591549295775,2,Electronics
+P1275,targeted_round2,S3_R0_only_regret,291,71,4.098591549295775,2,Health & Beauty
+P0522,targeted_round2,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty
+P0434,targeted_round2,S3_R0_only_regret,291,71,4.098591549295775,3,Health & Beauty

@@ -1,0 +1,862 @@
+review_uid,condition,run,dataset,label,confidence_verbal,p_regret_logprob,rationale,retrieved,error,raw,system_fingerprint,tokens_in,tokens_out,backend
+P0007,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9294387453013848,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p13|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p13|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_2a68371a58,724,19,openai
+P0029,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5117147135359683,,"Neuroimage article - Regret and disappointment.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,772,19,openai
+P0040,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9863621593122404,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,756,19,openai
+P0042,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.449387730400977,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p13|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,869,21,openai
+P0051,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9019071114335961,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,870,19,openai
+P0056,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9559753142913782,,"Neuroimage article - Regret and disappointment.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Neuroimage article - Regret and disappointment.pdf#p2",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,816,19,openai
+P0065,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8615394140897066,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,844,19,openai
+P0069,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9099000961017907,,Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p2|Neuroimage article - Regret and disappointment.pdf#p9|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,781,19,openai
+P0070,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.19436563821451577,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_039334b05c,833,21,openai
+P0084,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.15610197442500298,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e64d293026,836,21,openai
+P0090,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6477847433626348,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,814,19,openai
+P0097,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9970641441430599,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p5",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,808,19,openai
+P0099,R1_origprompt_newKB,0,pool,REGRET,0.8,0.7122346825312216,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Neuroimage article - Regret and disappointment.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,860,19,openai
+P0106,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9996374102476799,,"Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{
+  ""emotion"": ""REGRET"",
+  ""confidence"": 0.8
+}
+```",fp_f0408a18fe,865,23,openai
+P0107,R1_origprompt_newKB,0,pool,REGRET,0.9,0.9871775474694447,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.9}
+```",fp_e68c776e99,841,19,openai
+P0111,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.15405934829929613,,Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p6,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e64d293026,783,21,openai
+P0112,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.12592088490685024,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p15",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_039334b05c,803,21,openai
+P0124,R1_origprompt_newKB,0,pool,REGRET,0.9,0.9724148013222048,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.9}
+```",fp_039334b05c,870,19,openai
+P0134,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9944451062748388,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p16|Susceptibility of Mental Accounting Principles - Session3.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,884,19,openai
+P0135,R1_origprompt_newKB,0,pool,REGRET,0.8,0.999504466048637,,"Neuroimage article - Regret and disappointment.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p15|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,899,19,openai
+P0142,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5428312994803716,,Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p5,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,805,19,openai
+P0149,R1_origprompt_newKB,0,pool,REGRET,0.8,0.640634377323465,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,795,19,openai
+P0150,R1_origprompt_newKB,0,pool,REGRET,0.8,0.718589362207577,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p13|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,719,19,openai
+P0154,R1_origprompt_newKB,0,pool,REGRET,0.8,0.7634755966228858,,"Neuroimage article - Regret and disappointment.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p9",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,791,19,openai
+P0155,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9252275885383275,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,817,19,openai
+P0156,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6187557574429107,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,814,19,openai
+P0163,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.37387453015291927,,Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p6,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_f0408a18fe,800,21,openai
+P0174,R1_origprompt_newKB,0,pool,REGRET,0.8,0.979354164192857,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,792,19,openai
+P0182,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9678994648316519,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,893,19,openai
+P0188,R1_origprompt_newKB,0,pool,REGRET,0.8,0.7956616151668416,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p8|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,739,19,openai
+P0197,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.12252056498216855,,Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p4,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,839,21,openai
+P0205,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9783847677410985,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,854,19,openai
+P0206,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.48047211134909057,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,839,21,openai
+P0212,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9751998809853666,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,686,19,openai
+P0220,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9994385217336326,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,884,19,openai
+P0225,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8128649695277431,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,894,19,openai
+P0226,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6076628453931532,,"Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,808,19,openai
+P0233,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6513552703102867,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,1038,19,openai
+P0236,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9390224287297133,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,826,19,openai
+P0251,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6757639769877362,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p16|Susceptibility of Mental Accounting Principles - Session3.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p18|Susceptibility of Mental Accounting Principles - Session3.pdf#p16",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,701,19,openai
+P0271,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9982178063685906,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,878,19,openai
+P0275,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8244588433886179,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,855,19,openai
+P0277,R1_origprompt_newKB,0,pool,REGRET,0.9,0.9867760470888093,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p2|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.9}
+```",fp_2a68371a58,869,19,openai
+P0280,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.24797994011093275,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,861,21,openai
+P0283,R1_origprompt_newKB,0,pool,REGRET,0.8,0.52336696727222,,Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p6,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,820,19,openai
+P0298,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.9,0.00024156621219666074,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p2",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.9}
+```",fp_e64d293026,895,21,openai
+P0324,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8757839106469519,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,782,19,openai
+P0325,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.4148996667957843,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p14",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_039334b05c,837,21,openai
+P0342,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9945307357872903,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p16",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,668,19,openai
+P0352,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5039001641180729,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,760,19,openai
+P0354,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.04084536368292997,,Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_f0408a18fe,760,21,openai
+P0356,R1_origprompt_newKB,0,pool,REGRET,0.8,0.995531628130973,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,733,19,openai
+P0367,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8723429032878764,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,812,19,openai
+P0390,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.04401818172394358,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e64d293026,953,21,openai
+P0393,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.19192840644963466,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_4a00dbbba9,992,21,openai
+P0394,R1_origprompt_newKB,0,pool,REGRET,0.8,0.724862283336636,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,793,19,openai
+P0411,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.14804464923475152,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p16|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,798,21,openai
+P0422,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6859493864905625,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p5",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,787,19,openai
+P0429,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5888769293917429,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_4a00dbbba9,816,19,openai
+P0433,R1_origprompt_newKB,0,pool,REGRET,0.8,0.999977874618348,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,737,19,openai
+P0443,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9893475740888755,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,771,19,openai
+P0462,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.9,0.0007793648408643454,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.9}
+```",fp_2a68371a58,842,21,openai
+P0478,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.7,0.42248576395576815,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.7}
+```",fp_e64d293026,784,21,openai
+P0487,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.38862027591973985,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p7",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,862,21,openai
+P0488,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.10374678105277449,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,808,21,openai
+P0493,R1_origprompt_newKB,0,pool,REGRET,0.8,0.592667161125679,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,853,19,openai
+P0495,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.13477315579702745,,Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p2|Neuroimage article - Regret and disappointment.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p9,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_f0408a18fe,894,21,openai
+P0519,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.0023967243186727005,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,898,21,openai
+P0523,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.2845769784390479,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e64d293026,789,21,openai
+P0526,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9883114714017252,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,766,19,openai
+P0530,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9995891529555376,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p13|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,803,19,openai
+P0535,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9637803856285271,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p5|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p2|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p3|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,514,19,openai
+P0543,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.020964011227607975,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e64d293026,745,21,openai
+P0544,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.284557123001913,,Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p8|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p12,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,680,21,openai
+P0554,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9489029541707126,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,760,19,openai
+P0563,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.24507392593338875,,Susceptibility of Mental Accounting Principles - Session3.pdf#p9|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p2|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p3|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p4|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p5,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_039334b05c,429,21,openai
+P0567,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9632296515674333,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,810,19,openai
+P0581,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.30735456247980686,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_039334b05c,828,21,openai
+P0584,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9944450884906584,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p2",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_bfeb20929a,865,19,openai
+P0585,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.4960925817716678,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,746,21,openai
+P0588,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9926542310160894,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p13|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p12",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,796,19,openai
+P0590,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6076324057010923,,Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p5,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,786,19,openai
+P0598,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9539686642023524,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p13",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,791,19,openai
+P0599,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9987551660244582,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_11893ad7c9,740,19,openai
+P0607,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9991169573424894,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,767,19,openai
+P0610,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8267037841303931,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p13|Susceptibility of Mental Accounting Principles - Session3.pdf#p13|Neuroimage article - Regret and disappointment.pdf#p2|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,811,19,openai
+P0619,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.05419690981377741,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,752,21,openai
+P0624,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8288674101017035,,"Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,776,19,openai
+P0628,R1_origprompt_newKB,0,pool,REGRET,0.9,0.9984752220817189,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Neuroimage article - Regret and disappointment.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.9}
+```",fp_e64d293026,652,19,openai
+P0632,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9390237066315421,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p17|Susceptibility of Mental Accounting Principles - Session3.pdf#p17|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_4a00dbbba9,872,19,openai
+P0633,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8266979890427713,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p13",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,707,19,openai
+P0646,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.3738312867539971,,Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p10,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_2a68371a58,950,21,openai
+P0651,R1_origprompt_newKB,0,pool,REGRET,0.7,0.5963887718379801,,Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p18,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.7}
+```",fp_e64d293026,754,19,openai
+P0657,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8688280849502518,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,742,19,openai
+P0661,R1_origprompt_newKB,0,pool,REGRET,0.8,0.879143996525405,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,984,19,openai
+P0670,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9835970621371132,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,910,19,openai
+P0676,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5312084874886631,,"Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,938,19,openai
+P0678,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.2909614911627998,,Susceptibility of Mental Accounting Principles - Session3.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p16|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p5,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,548,21,openai
+P0710,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.4960829399404701,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,820,21,openai
+P0721,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6548914050589963,,"Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,867,19,openai
+P0722,R1_origprompt_newKB,0,pool,REGRET,0.8,0.7577992605232172,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_4a00dbbba9,823,19,openai
+P0724,R1_origprompt_newKB,0,pool,REGRET,0.8,0.923037305804174,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,757,19,openai
+P0727,R1_origprompt_newKB,0,pool,REGRET,0.9,0.999992233053678,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Susceptibility of Mental Accounting Principles - Session3.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.9}
+```",fp_039334b05c,832,19,openai
+P0739,R1_origprompt_newKB,0,pool,REGRET,0.8,0.7371541852647632,,Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p7,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_bfeb20929a,789,19,openai
+P0756,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8354794475358391,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p1",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,998,19,openai
+P0764,R1_origprompt_newKB,0,pool,REGRET,0.8,0.569849529226456,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,890,19,openai
+P0766,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5926607325984186,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p15",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,884,19,openai
+P0774,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.06278755040256641,,Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p9|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p2,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,917,21,openai
+P0776,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5389821583275958,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,874,19,openai
+P0785,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5312073425554008,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,900,19,openai
+P0792,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.18951749287948652,,"Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_11893ad7c9,843,21,openai
+P0797,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.18476570853474678,,"Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_11893ad7c9,902,21,openai
+P0799,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5736286491912197,,Neuroimage article - Regret and disappointment.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p9,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_11893ad7c9,747,19,openai
+P0808,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.03846520980866794,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,876,21,openai
+P0809,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6825615797688452,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,812,19,openai
+P0845,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5467371440004427,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,807,19,openai
+P0847,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.3629478488227403,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,777,21,openai
+P0851,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8376058003645941,,Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p16|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p15,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,756,19,openai
+P0855,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.7,0.38116844230227676,,Susceptibility of Mental Accounting Principles - Session3.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p11|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Neuroimage article - Regret and disappointment.pdf#p4,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.7}
+```",fp_2a68371a58,757,21,openai
+P0859,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.7,0.4072785498559941,,Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Neuroimage article - Regret and disappointment.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p13|Susceptibility of Mental Accounting Principles - Session3.pdf#p2,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.7}
+```",fp_4a00dbbba9,696,21,openai
+P0864,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9838472631039116,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_bfeb20929a,800,19,openai
+P0865,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.4262828409451761,,Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p9,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_039334b05c,772,21,openai
+P0867,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8962421967272843,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p2|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,755,19,openai
+P0870,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9920620915410356,,"Neuroimage article - Regret and disappointment.pdf#p2|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p6",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_bfeb20929a,759,19,openai
+P0873,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9770236196167186,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p5",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,800,19,openai
+P0883,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9996540109941169,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p2|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,718,19,openai
+P0887,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8652165958353266,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,737,19,openai
+P0900,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9890132068719736,,"Neuroimage article - Regret and disappointment.pdf#p9|Neuroimage article - Regret and disappointment.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p13|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p2",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,658,19,openai
+P0904,R1_origprompt_newKB,0,pool,REGRET,0.9,0.9999524235439656,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p13|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.9}
+```",fp_7bfd4ce6e1,836,19,openai
+P0905,R1_origprompt_newKB,0,pool,REGRET,0.9,0.9994115975615815,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.9}
+```",fp_039334b05c,777,19,openai
+P0906,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5582979883457301,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,794,19,openai
+P0912,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8267079830342994,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p2|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p3|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p4|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p5",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_2a68371a58,417,19,openai
+P0923,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9553154009937769,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p2|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,759,19,openai
+P0925,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9998088961000193,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p7|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p2|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p3|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,493,19,openai
+P0934,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9982992826613968,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p8|Susceptibility of Mental Accounting Principles - Session3.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,778,19,openai
+P0953,R1_origprompt_newKB,0,pool,REGRET,0.8,0.7185815500775882,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Neuroimage article - Regret and disappointment.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,757,19,openai
+P0955,R1_origprompt_newKB,0,pool,REGRET,0.8,0.896251366205709,,"Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p9",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,818,19,openai
+P0973,R1_origprompt_newKB,0,pool,REGRET,0.7,0.5077660003727854,,Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p13|Susceptibility of Mental Accounting Principles - Session3.pdf#p6,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.7}
+```",fp_e64d293026,744,19,openai
+P0974,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.42627139550035215,,Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p16|Susceptibility of Mental Accounting Principles - Session3.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p13|Susceptibility of Mental Accounting Principles - Session3.pdf#p2,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_039334b05c,495,21,openai
+P0982,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.0047551776057903955,,Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p1|Neuroimage article - Regret and disappointment.pdf#p1|Neuroimage article - Regret and disappointment.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p18,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,822,21,openai
+P0987,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9998339624823448,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,741,19,openai
+P1001,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.0021489380151944533,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Neuroimage article - Regret and disappointment.pdf#p10|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p7",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_2a68371a58,1083,21,openai
+P1003,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6723277479737024,,Neuroimage article - Regret and disappointment.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p8|Susceptibility of Mental Accounting Principles - Session3.pdf#p8|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p9,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,826,19,openai
+P1006,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9869772303943122,,Susceptibility of Mental Accounting Principles - Session3.pdf#p8|Susceptibility of Mental Accounting Principles - Session3.pdf#p11|Neuroimage article - Regret and disappointment.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p9|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p2,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,682,19,openai
+P1021,R1_origprompt_newKB,0,pool,REGRET,0.8,0.997242389755175,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_2a68371a58,729,19,openai
+P1022,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.13477654281657475,,"Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p5",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_2a68371a58,801,21,openai
+P1023,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.00019716894197572082,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Neuroimage article - Regret and disappointment.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p1|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_2a68371a58,836,21,openai
+P1024,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9136673606958285,,"Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,787,19,openai
+P1034,R1_origprompt_newKB,0,pool,REGRET,0.7,0.5888635095200309,,Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p15,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.7}
+```",fp_e64d293026,738,19,openai
+P1053,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6150668758852895,,Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p9|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p7,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,768,19,openai
+P1061,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9996593717377525,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Neuroimage article - Regret and disappointment.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Neuroimage article - Regret and disappointment.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p15",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,706,19,openai
+P1070,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.9,0.48828570009511063,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p13|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.9}
+```",fp_039334b05c,813,21,openai
+P1076,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5888886527239732,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,860,19,openai
+P1085,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.3208245832630261,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e64d293026,793,21,openai
+P1089,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6297745895761228,,"Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_bfeb20929a,877,19,openai
+P1090,R1_origprompt_newKB,0,pool,REGRET,0.8,0.7185900919692307,,"Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p2|Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,817,19,openai
+P1092,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9970189724207914,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,792,19,openai
+P1096,R1_origprompt_newKB,0,pool,REGRET,0.8,0.7956463760423388,,Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p7,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,792,19,openai
+P1114,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9916843406753892,,Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p2|Neuroimage article - Regret and disappointment.pdf#p3,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,793,19,openai
+P1125,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.0032224710271716744,,"Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e64d293026,893,21,openai
+P1137,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.3174234437744444,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,896,21,openai
+P1150,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9987156940678507,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,798,19,openai
+P1153,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.4416674989428223,,Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p13|Susceptibility of Mental Accounting Principles - Session3.pdf#p3,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,768,21,openai
+P1159,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5273177112200443,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,828,19,openai
+P1167,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6261245049190026,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,819,19,openai
+P1173,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6893045783831425,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,794,19,openai
+P1185,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9905874429471851,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,816,19,openai
+P1187,R1_origprompt_newKB,0,pool,REGRET,0.7,0.914887512951088,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.7}
+```",fp_e68c776e99,814,19,openai
+P1193,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.3486438797420372,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p5",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e64d293026,776,21,openai
+P1208,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.3960675005374149,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,758,21,openai
+P1218,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9988486427104477,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p15",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,897,19,openai
+P1229,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.34509026548732724,,"Neuroimage article - Regret and disappointment.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_039334b05c,781,21,openai
+P1232,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.29746405627040223,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p9|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,791,21,openai
+P1235,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6992469080071572,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,845,19,openai
+P1241,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8080474394304075,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p13|Neuroimage article - Regret and disappointment.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p16",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,634,19,openai
+P1242,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.25385557241324613,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_039334b05c,920,21,openai
+P1254,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.3311152022067507,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,870,21,openai
+P1255,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6893019611291786,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,823,19,openai
+P1259,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.14804175426502877,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_2a68371a58,753,21,openai
+P1269,R1_origprompt_newKB,0,pool,REGRET,0.8,0.817580896670651,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,772,19,openai
+P1283,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9473814326613557,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p5",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,877,19,openai
+P1289,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.002672989228309555,,Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p10,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_11893ad7c9,1038,21,openai
+P1294,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9990746184577058,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,850,19,openai
+P1299,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.18476305885728922,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p13|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_bfeb20929a,702,21,openai
+P1318,R1_origprompt_newKB,0,pool,REGRET,0.8,0.7057630538317421,,"Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,781,19,openai
+P1325,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9905874285584755,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p17|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,859,19,openai
+P1326,R1_origprompt_newKB,0,pool,REGRET,0.9,0.9902915837487701,,Neuroimage article - Regret and disappointment.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p8,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.9}
+```",fp_11893ad7c9,694,19,openai
+P1334,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5039061705290805,,Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p9,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_2a68371a58,773,19,openai
+P1336,R1_origprompt_newKB,0,pool,REGRET,0.8,0.7853118491426015,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,863,19,openai
+P1338,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5117114675118017,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,841,19,openai
+P1350,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.37748502906677117,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e64d293026,793,21,openai
+P1367,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.029311573994612185,,Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p9|Neuroimage article - Regret and disappointment.pdf#p9|Neuroimage article - Regret and disappointment.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p4,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_2a68371a58,763,21,openai
+P1393,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.3345903289521008,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,770,21,openai
+P1397,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5428633723095871,,"Neuroimage article - Regret and disappointment.pdf#p9|Neuroimage article - Regret and disappointment.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,873,19,openai
+P1403,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.25385930064722523,,Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p2,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_f0408a18fe,868,21,openai
+P1406,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.0008969381509727547,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p15",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e64d293026,695,21,openai
+P1416,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.3345930953504523,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p1",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,710,21,openai
+P1421,R1_origprompt_newKB,0,pool,REGRET,0.9,0.9998822554518684,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p13|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.9}
+```",fp_bfeb20929a,772,19,openai
+P1430,R1_origprompt_newKB,0,pool,REGRET,0.9,0.9999008472581471,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p13",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.9}
+```",fp_e68c776e99,779,19,openai
+P1432,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8947702104785042,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p2",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_bfeb20929a,728,19,openai
+P1437,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.017712117502804492,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p16",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,818,21,openai
+P1442,R1_origprompt_newKB,0,pool,REGRET,0.8,0.626122532416443,,Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p9,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,708,19,openai
+P1450,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9893475183913097,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,829,19,openai
+P1454,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.3345862629409208,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,902,21,openai
+P1469,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9947798838609122,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Susceptibility of Mental Accounting Principles - Session3.pdf#p2|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,795,19,openai
+P1475,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.17780558993559797,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p1|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p2",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_f0408a18fe,843,21,openai
+P1477,R1_origprompt_newKB,0,pool,REGRET,0.8,0.672331705744791,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,722,19,openai
+P1479,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9161048937108384,,Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p7,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,762,19,openai
+P1480,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9995761155636224,,"Neuroimage article - Regret and disappointment.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_7bfd4ce6e1,932,19,openai
+P1491,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.20434252095971603,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,814,21,openai
+P1497,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6723313882204984,,Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p10,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,781,19,openai
+P1513,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.9,0.011508033689107702,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.9}
+```",fp_039334b05c,888,21,openai
+P1517,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6688762751773797,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p2",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,755,19,openai
+P1518,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8198895496540685,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,889,19,openai
+P1526,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.004609547238328056,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_4a00dbbba9,760,21,openai
+P1536,R1_origprompt_newKB,0,pool,REGRET,0.9,0.9999993624453596,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p15",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.9}
+```",fp_039334b05c,973,19,openai
+P1545,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9934102285228706,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p2|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p3|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p4|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p5",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,426,19,openai
+P1546,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.7,0.0803535503517403,,Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p6,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.7}
+```",fp_e68c776e99,801,21,openai
+P1548,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.11279265592434141,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_f0408a18fe,890,21,openai
+P1555,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6370301421587612,,Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p3,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,803,19,openai
+P1556,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6076366129754542,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p15",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_bfeb20929a,834,19,openai
+P1557,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.7,0.4882651324114162,,"Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p8",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.7}
+```",fp_e68c776e99,791,21,openai
+P1559,R1_origprompt_newKB,0,pool,REGRET,0.8,0.80316853310352,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p2|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,808,19,openai
+P1564,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9927663845332318,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p1",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,709,19,openai
+P1590,R1_origprompt_newKB,0,pool,REGRET,0.8,0.890287767683157,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p16|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_11893ad7c9,900,19,openai
+P1594,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.002934937965322544,,"Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p2|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p3|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p4",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_2a68371a58,509,21,openai
+P1607,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8976904210413859,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p5",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,770,19,openai
+P1613,R1_origprompt_newKB,0,pool,REGRET,0.8,0.99818980093547,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Neuroimage article - Regret and disappointment.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,871,19,openai
+P1620,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5506147189320884,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p1",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_11893ad7c9,743,19,openai
+P1632,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8289404206497856,,"Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p10",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_2a68371a58,916,19,openai
+P1645,R1_origprompt_newKB,0,pool,REGRET,0.8,0.699297871255268,,Susceptibility of Mental Accounting Principles - Session3.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p13|Susceptibility of Mental Accounting Principles - Session3.pdf#p2|Neuroimage article - Regret and disappointment.pdf#p7,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,723,19,openai
+P1652,R1_origprompt_newKB,0,pool,REGRET,0.8,0.992767235825375,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,805,19,openai
+P1658,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8688170146493707,,Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p8,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,738,19,openai
+P1662,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9263017235769457,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_11893ad7c9,818,19,openai
+P1663,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9732409222960722,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,718,19,openai
+P1671,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5812499746640684,,Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,766,19,openai
+P1672,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.3311169775246332,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_11893ad7c9,667,21,openai
+P1692,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9314586337539378,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_4a00dbbba9,730,19,openai
+P1694,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8723452726193476,,Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p7,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,905,19,openai
+P1700,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9845758432469007,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,842,19,openai
+P1706,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9744347879327917,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Neuroimage article - Regret and disappointment.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_bfeb20929a,737,19,openai
+P1707,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.09946746089550974,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_bfeb20929a,619,21,openai
+P1711,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.10668864958564989,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_039334b05c,741,21,openai
+P1712,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.08881808939002314,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Neuroimage article - Regret and disappointment.pdf#p6",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_4a00dbbba9,817,21,openai
+P1715,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.10230300541202894,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_039334b05c,752,21,openai
+P1720,R1_origprompt_newKB,0,pool,REGRET,0.8,0.7431652180431871,,"Neuroimage article - Regret and disappointment.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p9",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,773,19,openai
+P1722,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9390148588082889,,"Neuroimage article - Regret and disappointment.pdf#p2|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Neuroimage article - Regret and disappointment.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,812,19,openai
+P1729,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.2974705303869339,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,772,21,openai
+P1741,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.09534705565774317,,Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Neuroimage article - Regret and disappointment.pdf#p9|Neuroimage article - Regret and disappointment.pdf#p2,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,783,21,openai
+P1747,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9728301086971224,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p2",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,893,19,openai
+P1750,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.21733280530871013,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_bfeb20929a,885,21,openai
+P1753,R1_origprompt_newKB,0,pool,REGRET,0.8,0.49999943025439336,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,876,19,openai
+P1756,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9111771847089568,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_bfeb20929a,815,19,openai
+P1760,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.12939801465919648,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,784,21,openai
+P1765,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.4648830640643146,,"Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p2|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,812,21,openai
+P1773,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.12592465952338186,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_2a68371a58,727,21,openai
+P1775,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.2628409070370782,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_bfeb20929a,746,21,openai
+P1789,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.0002611900396661861,,"Neuroimage article - Regret and disappointment.pdf#p2|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e64d293026,786,21,openai
+P1790,R1_origprompt_newKB,0,pool,REGRET,0.8,0.914899249555785,,"Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,795,19,openai
+P1802,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.1480472783592836,,"Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_2a68371a58,803,21,openai
+P1826,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.2422051521407852,,"Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p5",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,877,21,openai
+P1839,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.0453520428095683,,Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p15,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,838,21,openai
+P1846,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9304582506732222,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p2|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p3|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p4|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p5",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,355,19,openai
+P1854,R1_origprompt_newKB,0,pool,REGRET,0.8,0.7931011073411509,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p6",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,807,19,openai
+P1859,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.40357213651985513,,Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p3,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_bfeb20929a,693,21,openai
+P1865,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.7,0.38489141997763676,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Neuroimage article - Regret and disappointment.pdf#p2|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.7}
+```",fp_4a00dbbba9,781,21,openai
+P1885,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.1422240225041623,,Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p8|Neuroimage article - Regret and disappointment.pdf#p10,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_e68c776e99,839,21,openai
+P1903,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9962920421958602,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p2|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_0a4b2d353e,794,19,openai
+P1912,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.12252023429129136,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p13|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p15",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_bfeb20929a,735,21,openai
+P1924,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6723299280759782,,"Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p15",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,685,19,openai
+P1935,R1_origprompt_newKB,0,pool,REGRET,0.8,0.7371760091587368,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p3",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,806,19,openai
+P1939,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.2628439631366898,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Susceptibility of Mental Accounting Principles - Session3.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p3",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_f0408a18fe,801,21,openai
+P1940,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.06754668644694546,,Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p4|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p3,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_f0408a18fe,786,21,openai
+P1942,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9683814573810304,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_4a00dbbba9,809,19,openai
+P1946,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9995197078077356,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p8|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7|Susceptibility of Mental Accounting Principles - Session3.pdf#p10",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_039334b05c,783,19,openai
+P1950,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.0481359546977724,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p15",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_039334b05c,779,21,openai
+P1952,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9939964267897983,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p9|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_f0408a18fe,760,19,openai
+P1960,R1_origprompt_newKB,0,pool,REGRET,0.8,0.8152309572258748,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p16",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,720,19,openai
+P1961,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9814540743382625,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Neuroimage article - Regret and disappointment.pdf#p2|Neuroimage article - Regret and disappointment.pdf#p7|Neuroimage article - Regret and disappointment.pdf#p4|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p1",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e64d293026,904,19,openai
+P1968,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.11595912881936776,,"Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.8}
+```",fp_bfeb20929a,834,21,openai
+P1973,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.7,0.3997628070930928,,Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Neuroimage article - Regret and disappointment.pdf#p2|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p2|Kirmani and Rao-2000-JM-No Pain No Gain.pdf#p3,False,"```json
+{""emotion"": ""DISAPPOINTMENT"", ""confidence"": 0.7}
+```",fp_4a00dbbba9,568,21,openai
+P1985,R1_origprompt_newKB,0,pool,DISAPPOINTMENT,0.8,0.007345759548416019,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Susceptibility of Mental Accounting Principles - Session3.pdf#p10|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11",False,"```json
+{
+  ""emotion"": ""DISAPPOINTMENT"",
+  ""confidence"": 0.8
+}
+```",fp_4a00dbbba9,831,25,openai
+P1990,R1_origprompt_newKB,0,pool,REGRET,0.8,0.5350948248499557,,Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p2|Neuroimage article - Regret and disappointment.pdf#p4|Susceptibility of Mental Accounting Principles - Session3.pdf#p8|Neuroimage article - Regret and disappointment.pdf#p2,False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,795,19,openai
+P1994,R1_origprompt_newKB,0,pool,REGRET,0.8,0.9390251659061132,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p15|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p14|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p11|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p5|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p7",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_bfeb20929a,749,19,openai
+P1997,R1_origprompt_newKB,0,pool,REGRET,0.8,0.6477848253775437,,"Susceptibility of Mental Accounting Principles - Session3.pdf#p3|Zeelenberg and Pieters, 2007 - Theory of regret regulation 1.0.pdf#p12|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Susceptibility of Mental Accounting Principles - Session3.pdf#p6|Neuroimage article - Regret and disappointment.pdf#p4",False,"```json
+{""emotion"": ""REGRET"", ""confidence"": 0.8}
+```",fp_e68c776e99,868,19,openai

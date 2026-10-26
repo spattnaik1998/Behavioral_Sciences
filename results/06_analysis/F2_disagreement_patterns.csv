@@ -1,0 +1,14 @@
+pattern,n
+C3=D / C4=D / R0=D / C1=D,1424
+C3=D / C4=D / R0=R / C1=D,290
+C3=D / C4=R / R0=D / C1=D,135
+C3=D / C4=R / R0=R / C1=D,75
+C3=R / C4=R / R0=R / C1=R,46
+C3=R / C4=R / R0=R / C1=D,29
+C3=R / C4=R / R0=D / C1=D,8
+C3=D / C4=R / R0=R / C1=R,4
+C3=R / C4=D / R0=D / C1=D,2
+C3=R / C4=R / R0=D / C1=R,2
+C3=R / C4=D / R0=R / C1=D,2
+C3=D / C4=R / R0=D / C1=R,1
+C3=D / C4=D / R0=R / C1=R,1

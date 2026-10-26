@@ -1,0 +1,24 @@
+# Secrets: never commit the API key
+.env
+*.env
+!.env.example
+
+# Copyrighted literature PDFs (obtain them yourself, see knowledge_base/README.md)
+knowledge_base/*.pdf
+knowledge_base/original/*.pdf
+Materials/
+
+# Raw Datafiniti files (download them, see dataset/README.md)
+dataset/*.csv
+
+# Python / Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,13 @@
+comparison,subset,from,to,n,pct_regret_from,pct_regret_to,R_to_D,D_to_R,mcnemar_p
+KB effect | original prompt,paper_sample_100,R0_original_replication,R1_origprompt_newKB,100,17.0,55.00000000000001,1,39,7.457856554538012e-11
+KB effect | original prompt,annotation_random,R0_original_replication,R1_origprompt_newKB,200,21.5,56.00000000000001,3,72,3.72567441849804e-18
+KB effect | original prompt,annotation_all,R0_original_replication,R1_origprompt_newKB,285,38.24561403508772,64.91228070175438,6,82,3.7711198441363256e-18
+KB effect | revised prompt,paper_sample_100,R2_newprompt_origKB,C3_rag_full,100,0.0,4.0,0,4,0.125
+KB effect | revised prompt,annotation_random,R2_newprompt_origKB,C3_rag_full,200,2.5,3.5000000000000004,2,4,0.6875
+KB effect | revised prompt,annotation_all,R2_newprompt_origKB,C3_rag_full,285,10.87719298245614,11.228070175438596,6,7,1.0
+prompt effect | original KB,paper_sample_100,R0_original_replication,R2_newprompt_origKB,100,17.0,0.0,17,0,1.52587890625e-05
+prompt effect | original KB,annotation_random,R0_original_replication,R2_newprompt_origKB,200,21.5,2.5,39,1,7.457856554538012e-11
+prompt effect | original KB,annotation_all,R0_original_replication,R2_newprompt_origKB,285,38.24561403508772,10.87719298245614,81,3,1.0221367431741194e-20
+prompt effect | revised KB,paper_sample_100,R1_origprompt_newKB,C3_rag_full,100,55.00000000000001,4.0,51,0,8.881784197001252e-16
+prompt effect | revised KB,annotation_random,R1_origprompt_newKB,C3_rag_full,200,56.00000000000001,3.5000000000000004,105,0,4.930380657631324e-32
+prompt effect | revised KB,annotation_all,R1_origprompt_newKB,C3_rag_full,285,64.91228070175438,11.228070175438596,153,0,1.7516230804060213e-46

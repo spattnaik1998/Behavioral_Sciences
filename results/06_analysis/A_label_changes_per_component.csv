@@ -1,0 +1,6 @@
+change,from,to,n,pct_changed,D_to_R,R_to_D,mcnemar_p_label_shift
+add retrieval,C1_definitions,C3_rag_full,2019,2.3278850916295197,41,6,1.7716986633331544e-07
+add definitions,C2_rag_only,C3_rag_full,2019,2.9717682020802374,25,35,0.2450608330229457
+add definitions (no retrieval),C0_labels_only,C1_definitions,2019,0.8915304606240713,11,7,0.480682373046875
+speculative drafting + verification,C3_rag_full,C4_speculative,2019,10.846953937592868,215,4,2.254980983106865e-58
+original -> corrected pipeline,R0_original_replication,C3_rag_full,2019,18.92025755324418,12,370,3.551676984879906e-93

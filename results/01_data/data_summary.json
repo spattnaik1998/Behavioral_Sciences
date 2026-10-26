@@ -1,0 +1,34 @@
+{
+  "data_flow": [
+    {
+      "step": "Raw file (Datafiniti May19)",
+      "n_records": 28332
+    },
+    {
+      "step": "Rating <= 3",
+      "n_records": 2787
+    },
+    {
+      "step": "Non-empty review text",
+      "n_records": 2787
+    },
+    {
+      "step": "Duplicate texts removed",
+      "n_records": 2019
+    }
+  ],
+  "pool_n": 2019,
+  "original_sample_n": 100,
+  "original_sample_rating_counts": {
+    "1": 39,
+    "2": 32,
+    "3": 29
+  },
+  "external_sample_n": 500,
+  "file_described_in_paper_section_3_1": {
+    "file": "Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv",
+    "rows": 5000,
+    "cols": 24,
+    "rating_le3": 314
+  }
+}

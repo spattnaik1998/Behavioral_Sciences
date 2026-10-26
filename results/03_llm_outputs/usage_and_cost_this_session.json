@@ -1,0 +1,8 @@
+{
+  "gpt-4o": {
+    "in": 1296330,
+    "out": 83492,
+    "usd_indicative": 4.08
+  },
+  "backend": "openai"
+}

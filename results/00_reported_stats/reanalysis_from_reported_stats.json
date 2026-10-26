@@ -1,0 +1,68 @@
+{
+  "reported": {
+    "n_regret": 16,
+    "mean_regret": -1.5,
+    "sd_regret": 1.69,
+    "n_disap": 84,
+    "mean_disap": -2.36,
+    "sd_disap": 1.62,
+    "t_reported": 1.79,
+    "p_reported": 0.0765,
+    "d_reported": 0.52,
+    "r_rating": 0.637,
+    "n_total": 100
+  },
+  "internal_consistency": {
+    "overall_mean_reported": -2.22,
+    "overall_mean_implied_by_group_stats": -2.2224,
+    "overall_sd_reported": 1.78,
+    "overall_sd_implied_by_group_stats": 1.653300720597216,
+    "student_t_reported": 1.79,
+    "student_t_implied_by_group_stats": 1.9331624311017948,
+    "pooled_sd_needed_to_get_reported_t": 1.7613475296813506,
+    "verdict": "Group means are consistent with the overall mean, but the reported group SDs (1.69, 1.62) imply an overall SD of ~1.65 and t = 1.93 (p = 0.056), not the reported SD 1.78 and t = 1.790 (p = 0.0765). The reported t and overall SD are mutually consistent with a pooled SD of ~1.76, so the group SDs printed in Section 4.4 / Figure 4 are probably mis-transcribed. Resolve by recomputing from the raw results file."
+  },
+  "student_t_recomputed": 1.9331624311017948,
+  "student_p_recomputed": 0.05610231946741253,
+  "student_ci95_mean_diff": [
+    -0.022823907266946164,
+    1.742823907266946
+  ],
+  "welch_t": 1.8777959188487048,
+  "welch_df": 20.596193306909683,
+  "welch_p": 0.0746433430912721,
+  "welch_ci95_mean_diff": [
+    -0.09356762055609424,
+    1.813567620556094
+  ],
+  "mean_diff": 0.8599999999999999,
+  "cohens_d": 0.5273132839981446,
+  "cohens_d_ci95": [
+    -0.012282486615403432,
+    1.0669090546116926
+  ],
+  "hedges_g": 0.5232674020237342,
+  "power_observed_design_at_d": 0.48180435787474657,
+  "n_needed_80pct_power_same_16_84_ratio": [
+    34,
+    178
+  ],
+  "n_needed_80pct_power_balanced": [
+    58,
+    58
+  ],
+  "power_full_pool_2019_at_observed_d": 0.999999999991025,
+  "power_full_pool_2019_at_d_0.2": 0.9087119693131129,
+  "min_detectable_d_full_pool_80pct": 0.175,
+  "rating_corr_r": 0.637,
+  "rating_corr_fisher_ci95": [
+    0.5035875307585551,
+    0.7407398352411158
+  ],
+  "notes": [
+    "The paper's t = 1.790 is Student's pooled-variance t; Welch's t is reported here as requested by R2.5.",
+    "The 95% CI for the mean difference includes 0 under both tests, so the result is inconclusive (R3.4).",
+    "The CI for Cohen's d spans from a negligible-to-negative effect to a large one; d = 0.52 is not a precise estimate.",
+    "Power figures assume the observed d is the true effect; they illustrate why n = 100 (16 vs 84) was underpowered."
+  ]
+}

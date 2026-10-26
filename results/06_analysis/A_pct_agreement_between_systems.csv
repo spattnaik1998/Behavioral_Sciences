@@ -1,0 +1,8 @@
+,C0_labels_only,C1_definitions,C2_rag_only,C3_rag_full,C4_speculative,R0_original_replication,B1_lexicon
+C0_labels_only,,0.991,0.968,0.973,0.875,0.798,0.974
+C1_definitions,0.991,,0.966,0.977,0.877,0.802,0.975
+C2_rag_only,0.968,0.966,,0.97,0.882,0.801,0.952
+C3_rag_full,0.973,0.977,0.97,,0.892,0.811,0.961
+C4_speculative,0.875,0.877,0.882,0.892,,0.783,0.865
+R0_original_replication,0.798,0.802,0.801,0.811,0.783,,0.783
+B1_lexicon,0.974,0.975,0.952,0.961,0.865,0.783,

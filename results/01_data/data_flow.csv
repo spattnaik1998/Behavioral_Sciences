@@ -1,0 +1,5 @@
+step,n_records
+Raw file (Datafiniti May19),28332
+Rating <= 3,2787
+Non-empty review text,2787
+Duplicate texts removed,2019

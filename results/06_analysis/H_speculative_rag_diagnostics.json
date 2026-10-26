@@ -1,0 +1,18 @@
+{
+  "system": "C4_speculative",
+  "subset": "all reviews run",
+  "n_reviews": 2019,
+  "n_drafts": 8076,
+  "draft_regret_rate": 0.25334323922734026,
+  "majority_vote_regret_rate": 0.24962852897473997,
+  "selected_regret_rate": 0.1485884101040119,
+  "pct_all_drafts_agree": 75.23526498266469,
+  "pct_selected_differs_from_majority": 10.599306587419514,
+  "pct_unanimous_regret_drafts": 13.719663199603765,
+  "mean_rho_draft": 0.7771849111495343,
+  "mean_rho_sc": 0.8243438327346009,
+  "mean_rho_sr": 0.8044638675038415,
+  "tokens_in_per_review": 3254.7682020802376,
+  "tokens_out_per_review": 290.6131748390292,
+  "tokens_in_per_review_C3": 677.9024269440317
+}

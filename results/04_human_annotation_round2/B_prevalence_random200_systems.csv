@@ -1,0 +1,8 @@
+system,random_200_pct
+C0_labels_only,1.5
+C1_definitions,1.5
+C2_rag_only,4.5
+C3_rag_full,3.5
+C4_speculative,15.0
+R0_original_replication,21.5
+B1_lexicon,0.5

@@ -1,0 +1,2020 @@
+review_uid,cf_focus,cf_evidence,cf_error,backend,tokens_in,tokens_out
+P0000,NONE,,False,openai,187,12
+P0001,NONE,,False,openai,178,12
+P0002,NONE,,False,openai,222,12
+P0003,NONE,,False,openai,175,12
+P0004,NONE,,False,openai,240,12
+P0005,NONE,,False,openai,208,12
+P0006,NONE,,False,openai,166,12
+P0007,NONE,,False,openai,199,12
+P0008,NONE,,False,openai,175,12
+P0009,NONE,,False,openai,227,12
+P0010,NONE,,False,openai,230,12
+P0011,NONE,,False,openai,194,12
+P0012,NONE,,False,openai,170,12
+P0013,NONE,,False,openai,174,12
+P0014,NONE,,False,openai,165,12
+P0015,SITUATION,For the price it was worth the try but I'm going back to the other brands.,False,openai,260,31
+P0016,NONE,,False,openai,183,12
+P0017,NONE,,False,openai,178,12
+P0018,NONE,,False,openai,172,12
+P0019,NONE,,False,openai,174,12
+P0020,NONE,,False,openai,160,12
+P0021,NONE,,False,openai,183,12
+P0022,NONE,,False,openai,188,12
+P0023,BEHAVIOR,I should of gotten more then a days use out of them,False,openai,219,26
+P0024,NONE,,False,openai,216,12
+P0025,NONE,,False,openai,157,12
+P0026,NONE,,False,openai,194,12
+P0027,NONE,,False,openai,191,12
+P0028,NONE,,False,openai,156,12
+P0029,SITUATION,had a serious leak on one of them,False,openai,190,22
+P0030,NONE,,False,openai,167,12
+P0031,BEHAVIOR,"just to make sure, I bought some energizer batteries. Wouldn't you know it, the remote fired right back up.",False,openai,274,39
+P0032,NONE,,False,openai,201,12
+P0033,NONE,,False,openai,171,12
+P0034,NONE,,False,openai,207,12
+P0035,NONE,,False,openai,162,12
+P0036,NONE,,False,openai,180,12
+P0037,NONE,,False,openai,156,12
+P0038,NONE,,False,openai,191,12
+P0039,NONE,,False,openai,187,12
+P0040,NONE,,False,openai,172,12
+P0041,NONE,,False,openai,173,12
+P0042,NONE,,False,openai,181,12
+P0043,NONE,,False,openai,156,12
+P0044,NONE,,False,openai,184,12
+P0045,NONE,,False,openai,187,12
+P0046,NONE,,False,openai,176,12
+P0047,NONE,,False,openai,213,12
+P0048,NONE,,False,openai,158,12
+P0049,NONE,,False,openai,170,12
+P0050,NONE,,False,openai,189,12
+P0051,NONE,,False,openai,156,12
+P0052,NONE,,False,openai,166,12
+P0053,NONE,,False,openai,161,12
+P0054,BEHAVIOR,Wish I didn't buy these,False,openai,191,19
+P0055,BEHAVIOR,Won't make this mistake again.,False,openai,223,21
+P0056,NONE,,False,openai,166,12
+P0057,NONE,,False,openai,156,12
+P0058,NONE,,False,openai,178,12
+P0059,NONE,,False,openai,201,12
+P0060,SITUATION,they die way too quickly,False,openai,174,19
+P0061,NONE,,False,openai,185,12
+P0062,SITUATION,unless I got a bad batch,False,openai,231,20
+P0063,NONE,,False,openai,184,12
+P0064,NONE,,False,openai,264,12
+P0065,NONE,,False,openai,167,12
+P0066,NONE,,False,openai,207,12
+P0067,NONE,,False,openai,248,12
+P0068,NONE,,False,openai,208,12
+P0069,NONE,,False,openai,184,12
+P0070,NONE,,False,openai,192,12
+P0071,NONE,,False,openai,177,12
+P0072,NONE,,False,openai,174,12
+P0073,NONE,,False,openai,170,12
+P0074,NONE,,False,openai,181,12
+P0075,NONE,,False,openai,240,12
+P0076,NONE,,False,openai,242,12
+P0077,SITUATION,I had expected to get a lot longer use out of them,False,openai,263,26
+P0078,SITUATION,should have,False,openai,180,16
+P0079,NONE,,False,openai,179,12
+P0080,NONE,,False,openai,210,12
+P0081,NONE,,False,openai,242,12
+P0082,SITUATION,Best to pay the price for the good ones.,False,openai,216,24
+P0083,NONE,,False,openai,170,12
+P0084,NONE,,False,openai,224,12
+P0085,NONE,,False,openai,206,12
+P0086,NONE,,False,openai,174,12
+P0087,NONE,,False,openai,206,12
+P0088,NONE,,False,openai,177,12
+P0089,NONE,,False,openai,164,12
+P0090,NONE,,False,openai,232,12
+P0091,NONE,,False,openai,189,12
+P0092,NONE,,False,openai,208,12
+P0093,NONE,,False,openai,225,12
+P0094,NONE,,False,openai,327,12
+P0095,BEHAVIOR,"Obviously, I should have returned these batteries, and I'm sure I would have done so if my mom had not had a heart attack shortly after I received them.",False,openai,402,46
+P0096,NONE,,False,openai,180,12
+P0097,NONE,,False,openai,159,12
+P0098,NONE,,False,openai,161,12
+P0099,NONE,,False,openai,176,12
+P0100,NONE,,False,openai,206,12
+P0101,NONE,,False,openai,180,12
+P0102,NONE,,False,openai,213,12
+P0103,NONE,,False,openai,212,12
+P0104,NONE,,False,openai,168,12
+P0105,NONE,,False,openai,186,12
+P0106,BEHAVIOR,Huge mistake.,False,openai,228,17
+P0107,BEHAVIOR,Go ahead and spend the extra money for a better quality battery.,False,openai,226,27
+P0108,NONE,,False,openai,163,12
+P0109,NONE,,False,openai,229,12
+P0110,NONE,,False,openai,232,12
+P0111,SITUATION,"I was hoping the brand wouldn't matter but it seems that in this case, it does.",False,openai,198,32
+P0112,SITUATION,"Amazon, please keep an eye on quality and have your manufacturer test and give you results periodically.",False,openai,222,33
+P0113,NONE,,False,openai,196,12
+P0114,NONE,,False,openai,184,12
+P0115,NONE,,False,openai,225,12
+P0116,NONE,,False,openai,170,12
+P0117,NONE,,False,openai,206,12
+P0118,NONE,,False,openai,232,12
+P0119,NONE,,False,openai,163,12
+P0120,NONE,,False,openai,166,12
+P0121,SITUATION,they don't last as long as I would like them to,False,openai,190,25
+P0122,NONE,,False,openai,176,12
+P0123,NONE,,False,openai,278,12
+P0124,BEHAVIOR,Going with the name brand next time.,False,openai,173,22
+P0125,SITUATION,It's really sad that they just can't hold their own after only two years.,False,openai,297,29
+P0126,NONE,,False,openai,197,12
+P0127,NONE,,False,openai,190,12
+P0128,NONE,,False,openai,169,12
+P0129,NONE,,False,openai,290,12
+P0130,NONE,,False,openai,189,12
+P0131,BEHAVIOR,"I would return them for being dead, but I am outside the 30 day return window.",False,openai,341,33
+P0132,NONE,,False,openai,166,12
+P0133,NONE,,False,openai,203,12
+P0134,NONE,,False,openai,184,12
+P0135,NONE,,False,openai,159,12
+P0136,NONE,,False,openai,201,12
+P0137,NONE,,False,openai,171,12
+P0138,NONE,,False,openai,170,12
+P0139,SITUATION,So much for 10 year shelf life.,False,openai,194,23
+P0140,NONE,,False,openai,284,12
+P0141,NONE,,False,openai,225,12
+P0142,NONE,,False,openai,211,12
+P0143,NONE,,False,openai,175,12
+P0144,NONE,,False,openai,193,12
+P0145,NONE,,False,openai,166,12
+P0146,NONE,,False,openai,178,12
+P0147,NONE,,False,openai,180,12
+P0148,NONE,,False,openai,187,12
+P0149,SITUATION,I think you'd be better off buying a quality brand,False,openai,209,24
+P0150,NONE,,False,openai,196,12
+P0151,NONE,,False,openai,178,12
+P0152,SITUATION,sadly they die very quickly,False,openai,170,20
+P0153,NONE,,False,openai,226,12
+P0154,BEHAVIOR,Spend a little more and get a lot more battery life.,False,openai,180,26
+P0155,NONE,,False,openai,163,12
+P0156,NONE,,False,openai,213,12
+P0157,NONE,,False,openai,172,12
+P0158,NONE,,False,openai,164,12
+P0159,NONE,,False,openai,163,12
+P0160,NONE,,False,openai,165,12
+P0161,NONE,,False,openai,218,12
+P0162,NONE,,False,openai,189,12
+P0163,NONE,,False,openai,196,12
+P0164,NONE,,False,openai,223,12
+P0165,NONE,,False,openai,167,12
+P0166,SITUATION,they just don't last as long as the other name brand batteries,False,openai,176,26
+P0167,NONE,,False,openai,185,12
+P0168,NONE,,False,openai,236,12
+P0169,NONE,,False,openai,200,12
+P0170,BEHAVIOR,"If I was home, I would have used my battery meter.",False,openai,291,27
+P0171,NONE,,False,openai,232,12
+P0172,NONE,,False,openai,170,12
+P0173,NONE,,False,openai,187,12
+P0174,SITUATION,Didn't expect amazon product to be of such poor quality.,False,openai,211,25
+P0175,NONE,,False,openai,179,12
+P0176,NONE,,False,openai,194,12
+P0177,NONE,,False,openai,166,12
+P0178,NONE,,False,openai,184,12
+P0179,NONE,,False,openai,170,12
+P0180,NONE,,False,openai,173,12
+P0181,NONE,,False,openai,205,12
+P0182,NONE,,False,openai,215,12
+P0183,NONE,,False,openai,221,12
+P0184,NONE,,False,openai,222,12
+P0185,NONE,,False,openai,183,12
+P0186,NONE,,False,openai,171,12
+P0187,SITUATION,Expected to get far more life out of these.,False,openai,217,24
+P0188,NONE,,False,openai,166,12
+P0189,NONE,,False,openai,176,12
+P0190,NONE,,False,openai,173,12
+P0191,NONE,,False,openai,173,12
+P0192,BEHAVIOR,I would have sent them back but I missed my window.,False,openai,178,26
+P0193,NONE,,False,openai,194,12
+P0194,NONE,,False,openai,172,12
+P0195,NONE,,False,openai,162,12
+P0196,SITUATION,After one use in a regular used battery powered item it's dead,False,openai,184,26
+P0197,NONE,,False,openai,254,12
+P0198,NONE,,False,openai,158,12
+P0199,NONE,,False,openai,211,12
+P0200,NONE,,False,openai,167,12
+P0201,NONE,,False,openai,162,12
+P0202,NONE,,False,openai,183,12
+P0203,NONE,,False,openai,167,12
+P0204,NONE,,False,openai,164,12
+P0205,NONE,,False,openai,228,12
+P0206,NONE,,False,openai,218,12
+P0207,NONE,,False,openai,188,12
+P0208,NONE,,False,openai,237,12
+P0209,NONE,,False,openai,183,12
+P0210,BEHAVIOR,I'd spend the extra and get rechargeables,False,openai,180,22
+P0211,NONE,,False,openai,175,12
+P0212,NONE,,False,openai,164,12
+P0213,NONE,,False,openai,280,12
+P0214,BEHAVIOR,In the future I will stick with proven brands.,False,openai,201,24
+P0215,NONE,,False,openai,178,12
+P0216,NONE,,False,openai,180,12
+P0217,NONE,,False,openai,184,12
+P0218,NONE,,False,openai,182,12
+P0219,NONE,,False,openai,189,12
+P0220,BEHAVIOR,I could probably just buy the expensive ones and get the same life rather than keeping on purchasing these.,False,openai,215,34
+P0221,SITUATION,Batteries do not last at all,False,openai,168,22
+P0222,NONE,,False,openai,181,12
+P0223,NONE,,False,openai,180,12
+P0224,NONE,,False,openai,170,12
+P0225,NONE,,False,openai,285,12
+P0226,NONE,,False,openai,177,12
+P0227,NONE,,False,openai,213,12
+P0228,NONE,,False,openai,184,12
+P0229,SITUATION,"Don't waste your money on these, spend a little more for a good product.",False,openai,212,30
+P0230,NONE,,False,openai,234,12
+P0231,NONE,,False,openai,190,12
+P0232,NONE,,False,openai,182,12
+P0233,BEHAVIOR,Save your self the headache and buy energizers or something else. You will pay more but they work.,False,openai,307,35
+P0234,NONE,,False,openai,163,12
+P0235,NONE,,False,openai,186,12
+P0236,BEHAVIOR,"So if I were you, don't charge them",False,openai,232,23
+P0237,NONE,,False,openai,206,12
+P0238,NONE,,False,openai,246,12
+P0239,NONE,,False,openai,158,12
+P0240,NONE,,False,openai,168,12
+P0241,NONE,,False,openai,159,12
+P0242,NONE,,False,openai,243,12
+P0243,NONE,,False,openai,173,12
+P0244,NONE,,False,openai,170,12
+P0245,NONE,,False,openai,235,12
+P0246,NONE,,False,openai,156,12
+P0247,SITUATION,batteries don't last long compared to other brands,False,openai,165,24
+P0248,NONE,,False,openai,216,12
+P0249,SITUATION,I blame Amazon for showing me these when I was looking for something else.,False,openai,212,29
+P0250,SITUATION,The main reason I bought this model over others was that it was promised with multiple channels.,False,openai,212,32
+P0251,NONE,,False,openai,175,12
+P0252,NONE,,False,openai,167,12
+P0253,NONE,,False,openai,224,12
+P0254,BEHAVIOR,I should have stuck with Duracell,False,openai,204,22
+P0255,NONE,,False,openai,188,12
+P0256,NONE,,False,openai,216,12
+P0257,NONE,,False,openai,160,12
+P0258,NONE,,False,openai,188,12
+P0259,NONE,,False,openai,236,12
+P0260,NONE,,False,openai,260,12
+P0261,NONE,,False,openai,157,12
+P0262,NONE,,False,openai,223,12
+P0263,NONE,,False,openai,212,12
+P0264,NONE,,False,openai,176,12
+P0265,NONE,,False,openai,158,12
+P0266,NONE,,False,openai,183,12
+P0267,NONE,,False,openai,168,12
+P0268,SITUATION,found they dont hold up well in the tv remotes,False,openai,183,25
+P0269,NONE,,False,openai,198,12
+P0270,NONE,,False,openai,377,12
+P0271,BEHAVIOR,I could have found batteries a bit cheaper around town and on the internet,False,openai,216,28
+P0272,NONE,,False,openai,166,12
+P0273,SITUATION,"If you have the money, invest in batteries that last longer and tax the environment less.",False,openai,206,32
+P0274,NONE,,False,openai,162,12
+P0275,NONE,,False,openai,203,12
+P0276,NONE,,False,openai,283,12
+P0277,NONE,,False,openai,156,12
+P0278,NONE,,False,openai,167,12
+P0279,NONE,,False,openai,162,12
+P0280,SITUATION,It's very possible we received a bad batch,False,openai,255,22
+P0281,SITUATION,Other brand of batteries have lasted longer,False,openai,185,21
+P0282,NONE,,False,openai,222,12
+P0283,NONE,,False,openai,187,12
+P0284,SITUATION,"Unfortunately, they don't come in their own Container to keep them together after opening.",False,openai,217,30
+P0285,SITUATION,No new AA battery should arrive with 1.5V.,False,openai,485,27
+P0286,SITUATION,they do not last as long as Duracells or Energizers,False,openai,243,27
+P0287,NONE,,False,openai,166,12
+P0288,SITUATION,Bad batch,False,openai,162,16
+P0289,NONE,,False,openai,283,12
+P0290,NONE,,False,openai,178,12
+P0291,NONE,,False,openai,216,12
+P0292,NONE,,False,openai,197,12
+P0293,NONE,,False,openai,200,12
+P0294,NONE,,False,openai,210,12
+P0295,NONE,,False,openai,198,12
+P0296,BEHAVIOR,I regret my purchase of 2 packs,False,openai,197,22
+P0297,NONE,,False,openai,158,12
+P0298,NONE,,False,openai,179,12
+P0299,NONE,,False,openai,159,12
+P0300,NONE,,False,openai,160,12
+P0301,NONE,,False,openai,170,12
+P0302,NONE,,False,openai,207,12
+P0303,NONE,,False,openai,171,12
+P0304,NONE,,False,openai,282,12
+P0305,SITUATION,I now know why...,False,openai,190,19
+P0306,NONE,,False,openai,213,12
+P0307,SITUATION,I really expected more,False,openai,215,18
+P0308,NONE,,False,openai,179,12
+P0309,NONE,,False,openai,195,12
+P0310,NONE,,False,openai,213,12
+P0311,SITUATION,Don't buy these if you are looking for a long lasting battery.,False,openai,306,27
+P0312,NONE,,False,openai,197,12
+P0313,NONE,,False,openai,171,12
+P0314,NONE,,False,openai,211,12
+P0315,NONE,,False,openai,185,12
+P0316,NONE,,False,openai,216,12
+P0317,NONE,,False,openai,208,12
+P0318,NONE,,False,openai,236,12
+P0319,NONE,,False,openai,186,12
+P0320,NONE,,False,openai,173,12
+P0321,NONE,,False,openai,180,12
+P0322,NONE,,False,openai,199,12
+P0323,SITUATION,I wish I could still return them.,False,openai,198,22
+P0324,NONE,,False,openai,179,12
+P0325,NONE,,False,openai,183,12
+P0326,NONE,,False,openai,167,12
+P0327,NONE,,False,openai,177,12
+P0328,NONE,,False,openai,205,12
+P0329,SITUATION,I had hoped that Amazon batteries would be as good as their other services.,False,openai,241,29
+P0330,NONE,,False,openai,191,12
+P0331,NONE,,False,openai,191,12
+P0332,SITUATION,"I could forgive one leaking battery, but almost half the package",False,openai,322,26
+P0333,NONE,,False,openai,232,12
+P0334,SITUATION,Not sure if this batch was defective or not,False,openai,252,23
+P0335,NONE,,False,openai,189,12
+P0336,NONE,,False,openai,177,12
+P0337,NONE,,False,openai,283,12
+P0338,NONE,,False,openai,227,12
+P0339,NONE,,False,openai,161,12
+P0340,NONE,,False,openai,190,12
+P0341,NONE,,False,openai,184,12
+P0342,NONE,,False,openai,190,12
+P0343,BEHAVIOR,I originally wanted to buy Duracell brand batteries but I bought these instead,False,openai,231,29
+P0344,NONE,,False,openai,227,12
+P0345,BEHAVIOR,"I would of sent them back, but this happened after the 30 day return window.",False,openai,196,32
+P0346,NONE,,False,openai,182,12
+P0347,SITUATION,"they work, but not for long",False,openai,239,21
+P0348,NONE,,False,openai,179,12
+P0349,NONE,,False,openai,169,12
+P0350,SITUATION,I was just lucky that it lasted long enough for the entire gig.,False,openai,377,28
+P0351,BEHAVIOR,I GUESS I SHOULD HAVE BEEN MORE CAREFUL AND LESS GULLIBLE,False,openai,235,29
+P0352,NONE,,False,openai,175,12
+P0353,NONE,,False,openai,183,12
+P0354,SITUATION,I don't think the price should be as listed,False,openai,180,23
+P0355,NONE,,False,openai,174,12
+P0356,NONE,,False,openai,169,12
+P0357,NONE,,False,openai,158,12
+P0358,NONE,,False,openai,194,12
+P0359,NONE,,False,openai,238,12
+P0360,NONE,,False,openai,220,12
+P0361,BEHAVIOR,Wish I had opened the package all the way as soon as I received it,False,openai,187,29
+P0362,NONE,,False,openai,205,12
+P0363,NONE,,False,openai,175,12
+P0364,NONE,,False,openai,161,12
+P0365,NONE,,False,openai,189,12
+P0366,NONE,,False,openai,209,12
+P0367,SITUATION,seem to last about 3/4 as much as the other brand,False,openai,197,29
+P0368,NONE,,False,openai,181,12
+P0369,NONE,,False,openai,178,12
+P0370,NONE,,False,openai,178,12
+P0371,NONE,,False,openai,159,12
+P0372,NONE,,False,openai,172,12
+P0373,NONE,,False,openai,181,12
+P0374,NONE,,False,openai,188,12
+P0375,NONE,,False,openai,189,12
+P0376,NONE,,False,openai,183,12
+P0377,NONE,,False,openai,167,12
+P0378,NONE,,False,openai,191,12
+P0379,NONE,,False,openai,257,12
+P0380,NONE,,False,openai,164,12
+P0381,NONE,,False,openai,304,12
+P0382,NONE,,False,openai,181,12
+P0383,NONE,,False,openai,171,12
+P0384,NONE,,False,openai,164,12
+P0385,BEHAVIOR,I might want to invest in a brand that lasts a bit longer,False,openai,217,27
+P0386,NONE,,False,openai,164,12
+P0387,SITUATION,just wish they would last as long as comparably priced batteries,False,openai,210,26
+P0388,NONE,,False,openai,202,12
+P0389,NONE,,False,openai,259,12
+P0390,SITUATION,"Unsure if I should demand an exchange or full reimbursement. Maybe they do well in warm temps, but in the cold temps they cannot perform like a Duracell or Energizer.",False,openai,284,51
+P0391,SITUATION,If they weren't considered hazardous waste when spent,False,openai,258,22
+P0392,NONE,,False,openai,180,12
+P0393,NONE,,False,openai,286,12
+P0394,NONE,,False,openai,193,12
+P0395,NONE,,False,openai,182,12
+P0396,NONE,,False,openai,188,12
+P0397,NONE,,False,openai,356,12
+P0398,NONE,,False,openai,230,12
+P0399,NONE,,False,openai,188,12
+P0400,NONE,,False,openai,175,12
+P0401,BEHAVIOR,dont save money here as you might lose your equipment and the money you spend on the batteries,False,openai,270,32
+P0402,BEHAVIOR,"I wish I'd taken a photo of the puddle they left on the keyboard and table, but I was too focused on clean-up to stop and take a picture.",False,openai,436,47
+P0403,NONE,,False,openai,249,12
+P0404,NONE,,False,openai,196,12
+P0405,NONE,,False,openai,172,12
+P0406,BEHAVIOR,I will purchase a name brand next time.,False,openai,222,23
+P0407,NONE,,False,openai,259,12
+P0408,SITUATION,logo faded/wore off in a few months though... logo is kinda why I bought this,False,openai,181,32
+P0409,NONE,,False,openai,192,12
+P0410,NONE,,False,openai,194,12
+P0411,NONE,,False,openai,193,12
+P0412,NONE,,False,openai,177,12
+P0413,SITUATION,Can't use them,False,openai,181,17
+P0414,NONE,,False,openai,231,12
+P0415,NONE,,False,openai,177,12
+P0416,NONE,,False,openai,212,12
+P0417,SITUATION,Very disappointed,False,openai,216,16
+P0418,NONE,,False,openai,162,12
+P0419,NONE,,False,openai,257,12
+P0420,NONE,,False,openai,173,12
+P0421,NONE,,False,openai,209,12
+P0422,NONE,,False,openai,185,12
+P0423,NONE,,False,openai,231,12
+P0424,BEHAVIOR,Will just pay extra next time for brand name batteries.,False,openai,193,25
+P0425,NONE,,False,openai,163,12
+P0426,NONE,,False,openai,178,12
+P0427,NONE,,False,openai,223,12
+P0428,NONE,,False,openai,203,12
+P0429,NONE,,False,openai,194,12
+P0430,NONE,,False,openai,196,12
+P0431,NONE,,False,openai,210,12
+P0432,NONE,,False,openai,187,12
+P0433,NONE,,False,openai,159,12
+P0434,NONE,,False,openai,255,12
+P0435,NONE,,False,openai,176,12
+P0436,SITUATION,these last less than a week,False,openai,174,20
+P0437,NONE,,False,openai,166,12
+P0438,NONE,,False,openai,162,12
+P0439,NONE,,False,openai,189,12
+P0440,NONE,,False,openai,188,12
+P0441,NONE,,False,openai,196,12
+P0442,BEHAVIOR,Spend a few more bucks and get some decent name brand batteries.,False,openai,230,27
+P0443,NONE,,False,openai,169,12
+P0444,NONE,,False,openai,219,12
+P0445,NONE,,False,openai,162,12
+P0446,SITUATION,AMAZON SHOULD BE ASHAMED TO SELL THEM,False,openai,177,25
+P0447,NONE,,False,openai,166,12
+P0448,NONE,,False,openai,202,12
+P0449,NONE,,False,openai,161,12
+P0450,NONE,,False,openai,182,12
+P0451,NONE,,False,openai,183,12
+P0452,NONE,,False,openai,344,12
+P0453,NONE,,False,openai,177,12
+P0454,NONE,,False,openai,169,12
+P0455,NONE,,False,openai,183,12
+P0456,NONE,,False,openai,163,12
+P0457,NONE,,False,openai,171,12
+P0458,BEHAVIOR,"Batteries are something I don't test when i get them, I assume they will work when I need them.",False,openai,332,37
+P0459,NONE,,False,openai,213,12
+P0460,NONE,,False,openai,185,12
+P0461,NONE,,False,openai,176,12
+P0462,NONE,,False,openai,176,12
+P0463,BEHAVIOR,hereafter I'll buy a name brand,False,openai,215,21
+P0464,NONE,,False,openai,247,12
+P0465,SITUATION,didnt last a week,False,openai,164,19
+P0466,SITUATION,This defeats that purpose.,False,openai,200,19
+P0467,NONE,,False,openai,220,12
+P0468,NONE,,False,openai,163,12
+P0469,NONE,,False,openai,225,12
+P0470,NONE,,False,openai,203,12
+P0471,NONE,,False,openai,180,12
+P0472,NONE,,False,openai,225,12
+P0473,NONE,,False,openai,166,12
+P0474,SITUATION,Perhaps they would be great in a remote or something that draws very little.,False,openai,216,29
+P0475,NONE,,False,openai,163,12
+P0476,NONE,,False,openai,181,12
+P0477,NONE,,False,openai,222,12
+P0478,NONE,,False,openai,168,12
+P0479,SITUATION,This means they should last longer since I'm not just draining the battery life on one of them.,False,openai,312,33
+P0480,NONE,,False,openai,175,12
+P0481,NONE,,False,openai,200,12
+P0482,NONE,,False,openai,192,12
+P0483,NONE,,False,openai,214,12
+P0484,NONE,,False,openai,183,12
+P0485,NONE,,False,openai,194,12
+P0486,NONE,,False,openai,176,12
+P0487,SITUATION,"it's a shame because you know they have the ability to make batteries last longer, all companies, and yet they don't just so we'll come back and buy more",False,openai,299,45
+P0488,SITUATION,didn't last long,False,openai,162,18
+P0489,NONE,,False,openai,164,12
+P0490,BEHAVIOR,Don't do the same. It's not worth it.,False,openai,232,24
+P0491,NONE,,False,openai,201,12
+P0492,NONE,,False,openai,175,12
+P0493,NONE,,False,openai,208,12
+P0494,NONE,,False,openai,183,12
+P0495,NONE,,False,openai,262,12
+P0496,NONE,,False,openai,231,12
+P0497,NONE,,False,openai,175,12
+P0498,SITUATION,I have had to replace several batteries way too soon,False,openai,175,24
+P0499,NONE,,False,openai,167,12
+P0500,NONE,,False,openai,185,12
+P0501,NONE,,False,openai,209,12
+P0502,SITUATION,Amazon need to do better with that.,False,openai,178,22
+P0503,NONE,,False,openai,163,12
+P0504,NONE,,False,openai,187,12
+P0505,NONE,,False,openai,197,12
+P0506,NONE,,False,openai,182,12
+P0507,NONE,,False,openai,197,12
+P0508,NONE,,False,openai,208,12
+P0509,NONE,,False,openai,359,12
+P0510,NONE,,False,openai,212,12
+P0511,NONE,,False,openai,183,12
+P0512,NONE,,False,openai,164,12
+P0513,NONE,,False,openai,193,12
+P0514,NONE,,False,openai,173,12
+P0515,BEHAVIOR,I've decided that I would rather spend the few extra cents per battery on brand-name batteries.,False,openai,290,32
+P0516,NONE,,False,openai,197,12
+P0517,NONE,,False,openai,164,12
+P0518,NONE,,False,openai,178,12
+P0519,NONE,,False,openai,239,12
+P0520,NONE,,False,openai,156,12
+P0521,NONE,,False,openai,175,12
+P0522,NONE,,False,openai,162,12
+P0523,NONE,,False,openai,173,12
+P0524,NONE,,False,openai,201,12
+P0525,SITUATION,I expected a more robust container,False,openai,239,20
+P0526,NONE,,False,openai,165,12
+P0527,NONE,,False,openai,221,12
+P0528,NONE,,False,openai,165,12
+P0529,NONE,,False,openai,186,12
+P0530,NONE,,False,openai,162,12
+P0531,NONE,,False,openai,156,12
+P0532,NONE,,False,openai,191,12
+P0533,NONE,,False,openai,183,12
+P0534,NONE,,False,openai,160,12
+P0535,NONE,,False,openai,180,12
+P0536,NONE,,False,openai,182,12
+P0537,NONE,,False,openai,188,12
+P0538,NONE,,False,openai,282,12
+P0539,NONE,,False,openai,169,12
+P0540,NONE,,False,openai,168,12
+P0541,NONE,,False,openai,157,12
+P0542,NONE,,False,openai,164,12
+P0543,NONE,,False,openai,165,12
+P0544,NONE,,False,openai,173,12
+P0545,NONE,,False,openai,159,12
+P0546,NONE,,False,openai,157,12
+P0547,NONE,,False,openai,170,12
+P0548,NONE,,False,openai,161,12
+P0549,NONE,,False,openai,162,12
+P0550,NONE,,False,openai,160,12
+P0551,NONE,,False,openai,165,12
+P0552,NONE,,False,openai,158,12
+P0553,NONE,,False,openai,166,12
+P0554,NONE,,False,openai,168,12
+P0555,NONE,,False,openai,164,12
+P0556,NONE,,False,openai,164,12
+P0557,NONE,,False,openai,166,12
+P0558,NONE,,False,openai,164,12
+P0559,NONE,,False,openai,157,12
+P0560,NONE,,False,openai,162,12
+P0561,NONE,,False,openai,165,12
+P0562,NONE,,False,openai,155,12
+P0563,NONE,,False,openai,161,12
+P0564,NONE,,False,openai,160,12
+P0565,NONE,,False,openai,158,12
+P0566,NONE,,False,openai,167,12
+P0567,NONE,,False,openai,165,12
+P0568,NONE,,False,openai,167,12
+P0569,NONE,,False,openai,163,12
+P0570,NONE,,False,openai,160,12
+P0571,NONE,,False,openai,159,12
+P0572,NONE,,False,openai,164,12
+P0573,NONE,,False,openai,168,12
+P0574,NONE,,False,openai,156,12
+P0575,NONE,,False,openai,170,12
+P0576,NONE,,False,openai,160,12
+P0577,NONE,,False,openai,170,12
+P0578,NONE,,False,openai,160,12
+P0579,NONE,,False,openai,155,12
+P0580,NONE,,False,openai,159,12
+P0581,SITUATION,do not last very long,False,openai,163,19
+P0582,NONE,,False,openai,167,12
+P0583,NONE,,False,openai,172,12
+P0584,NONE,,False,openai,160,12
+P0585,NONE,,False,openai,164,12
+P0586,NONE,,False,openai,157,12
+P0587,NONE,,False,openai,173,12
+P0588,NONE,,False,openai,171,12
+P0589,NONE,,False,openai,160,12
+P0590,NONE,,False,openai,161,12
+P0591,NONE,,False,openai,159,12
+P0592,NONE,,False,openai,157,12
+P0593,NONE,,False,openai,159,12
+P0594,NONE,,False,openai,161,12
+P0595,NONE,,False,openai,162,12
+P0596,NONE,,False,openai,160,12
+P0597,NONE,,False,openai,160,12
+P0598,NONE,,False,openai,166,12
+P0599,NONE,,False,openai,159,12
+P0600,NONE,,False,openai,158,12
+P0601,NONE,,False,openai,165,12
+P0602,NONE,,False,openai,172,12
+P0603,NONE,,False,openai,165,12
+P0604,NONE,,False,openai,174,12
+P0605,NONE,,False,openai,169,12
+P0606,NONE,,False,openai,159,12
+P0607,BEHAVIOR,should buy duracell,False,openai,159,19
+P0608,NONE,,False,openai,162,12
+P0609,NONE,,False,openai,155,12
+P0610,NONE,,False,openai,171,12
+P0611,NONE,,False,openai,167,12
+P0612,NONE,,False,openai,231,12
+P0613,NONE,,False,openai,163,12
+P0614,NONE,,False,openai,165,12
+P0615,NONE,,False,openai,168,12
+P0616,NONE,,False,openai,172,12
+P0617,NONE,,False,openai,168,12
+P0618,NONE,,False,openai,160,12
+P0619,NONE,,False,openai,160,12
+P0620,NONE,,False,openai,175,12
+P0621,NONE,,False,openai,166,12
+P0622,NONE,,False,openai,171,12
+P0623,NONE,,False,openai,160,12
+P0624,NONE,,False,openai,161,12
+P0625,SITUATION,die way too fast,False,openai,159,18
+P0626,NONE,,False,openai,164,12
+P0627,NONE,,False,openai,167,12
+P0628,NONE,,False,openai,159,12
+P0629,NONE,,False,openai,164,12
+P0630,NONE,,False,openai,169,12
+P0631,NONE,,False,openai,157,12
+P0632,NONE,,False,openai,168,12
+P0633,NONE,,False,openai,157,12
+P0634,NONE,,False,openai,158,12
+P0635,NONE,,False,openai,164,12
+P0636,NONE,,False,openai,161,12
+P0637,NONE,,False,openai,163,12
+P0638,NONE,,False,openai,161,12
+P0639,NONE,,False,openai,174,12
+P0640,NONE,,False,openai,162,12
+P0641,NONE,,False,openai,162,12
+P0642,NONE,,False,openai,163,12
+P0643,NONE,,False,openai,161,12
+P0644,NONE,,False,openai,160,12
+P0645,NONE,,False,openai,168,12
+P0646,NONE,,False,openai,167,12
+P0647,NONE,,False,openai,161,12
+P0648,NONE,,False,openai,164,12
+P0649,NONE,,False,openai,174,12
+P0650,NONE,,False,openai,162,12
+P0651,NONE,,False,openai,157,12
+P0652,NONE,,False,openai,158,12
+P0653,NONE,,False,openai,169,12
+P0654,NONE,,False,openai,157,12
+P0655,NONE,,False,openai,160,12
+P0656,NONE,,False,openai,176,12
+P0657,NONE,,False,openai,159,12
+P0658,NONE,,False,openai,172,12
+P0659,NONE,,False,openai,156,12
+P0660,NONE,,False,openai,250,12
+P0661,BEHAVIOR,I would return them but the return date was past due.,False,openai,218,26
+P0662,NONE,,False,openai,183,12
+P0663,NONE,,False,openai,205,12
+P0664,NONE,,False,openai,161,12
+P0665,NONE,,False,openai,241,12
+P0666,NONE,,False,openai,168,12
+P0667,NONE,,False,openai,327,12
+P0668,NONE,,False,openai,195,12
+P0669,NONE,,False,openai,297,12
+P0670,NONE,,False,openai,259,12
+P0671,NONE,,False,openai,179,12
+P0672,NONE,,False,openai,246,12
+P0673,NONE,,False,openai,163,12
+P0674,NONE,,False,openai,166,12
+P0675,NONE,,False,openai,201,12
+P0676,NONE,,False,openai,337,12
+P0677,NONE,,False,openai,228,12
+P0678,NONE,,False,openai,160,12
+P0679,NONE,,False,openai,180,12
+P0680,NONE,,False,openai,177,12
+P0681,NONE,,False,openai,182,12
+P0682,NONE,,False,openai,194,12
+P0683,NONE,,False,openai,223,12
+P0684,NONE,,False,openai,265,12
+P0685,NONE,,False,openai,171,12
+P0686,NONE,,False,openai,180,12
+P0687,SITUATION,won't buy again unless quality goes up,False,openai,182,22
+P0688,NONE,,False,openai,176,12
+P0689,NONE,,False,openai,171,12
+P0690,NONE,,False,openai,168,12
+P0691,NONE,,False,openai,179,12
+P0692,NONE,,False,openai,186,12
+P0693,NONE,,False,openai,186,12
+P0694,NONE,,False,openai,306,12
+P0695,NONE,,False,openai,240,12
+P0696,NONE,,False,openai,201,12
+P0697,SITUATION,I just wish the buttons lit up on the bagel and frozen buttons,False,openai,189,28
+P0698,NONE,,False,openai,210,12
+P0699,NONE,,False,openai,262,12
+P0700,BEHAVIOR,I didn't think to test them before putting them in,False,openai,371,24
+P0701,NONE,,False,openai,174,12
+P0702,NONE,,False,openai,519,12
+P0703,SITUATION,run out much quicker,False,openai,168,18
+P0704,NONE,,False,openai,163,12
+P0705,NONE,,False,openai,168,12
+P0706,NONE,,False,openai,159,12
+P0707,BEHAVIOR,Spend the extra money and buy Duracell,False,openai,218,23
+P0708,SITUATION,"Other than that, this scale would have been fantastic.",False,openai,269,25
+P0709,NONE,,False,openai,172,12
+P0710,NONE,,False,openai,214,12
+P0711,SITUATION,should last quite a bit longer,False,openai,193,20
+P0712,NONE,,False,openai,177,12
+P0713,NONE,,False,openai,163,12
+P0714,BEHAVIOR,Had I know they were made in Asia I would never have purchased them to begin with.,False,openai,221,32
+P0715,NONE,,False,openai,157,12
+P0716,NONE,,False,openai,159,12
+P0717,NONE,,False,openai,194,12
+P0718,NONE,,False,openai,165,12
+P0719,NONE,,False,openai,162,12
+P0720,NONE,,False,openai,171,12
+P0721,SITUATION,"These lasted less than half as long, crazy!",False,openai,226,24
+P0722,NONE,,False,openai,176,12
+P0723,NONE,,False,openai,160,12
+P0724,NONE,,False,openai,174,12
+P0725,SITUATION,It's really sad that they don't hold up longer.,False,openai,302,24
+P0726,SITUATION,Should have lasted two or three months.,False,openai,206,22
+P0727,BEHAVIOR,I tried these generic ones and regret it.,False,openai,243,23
+P0728,BEHAVIOR,I think a more economical way to go is to spend a little extra on name brand dependable batteries that last 2-3 times as long.,False,openai,315,43
+P0729,NONE,,False,openai,161,12
+P0730,NONE,,False,openai,158,12
+P0731,NONE,,False,openai,166,12
+P0732,NONE,,False,openai,217,12
+P0733,NONE,,False,openai,207,12
+P0734,NONE,,False,openai,192,12
+P0735,NONE,,False,openai,196,12
+P0736,NONE,,False,openai,220,12
+P0737,NONE,,False,openai,381,12
+P0738,NONE,,False,openai,197,12
+P0739,NONE,,False,openai,168,12
+P0740,SITUATION,Would return if possible.,False,openai,183,19
+P0741,NONE,,False,openai,168,12
+P0742,SITUATION,not long lasting,False,openai,163,17
+P0743,NONE,,False,openai,156,12
+P0744,SITUATION,they don't last near as long as name brand,False,openai,171,23
+P0745,NONE,,False,openai,190,12
+P0746,NONE,,False,openai,261,12
+P0747,NONE,,False,openai,196,12
+P0748,NONE,,False,openai,340,12
+P0749,NONE,,False,openai,271,12
+P0750,NONE,,False,openai,213,12
+P0751,NONE,,False,openai,244,12
+P0752,NONE,,False,openai,190,12
+P0753,BEHAVIOR,I will switch to a higher quality battery on my next order.,False,openai,179,27
+P0754,NONE,,False,openai,325,12
+P0755,BEHAVIOR,Spend the extra money get good batteries,False,openai,170,21
+P0756,NONE,,False,openai,394,12
+P0757,NONE,,False,openai,216,12
+P0758,NONE,,False,openai,179,12
+P0759,NONE,,False,openai,189,12
+P0760,SITUATION,going through them 3x as fast as other batteries makes them a worse value,False,openai,343,30
+P0761,NONE,,False,openai,174,12
+P0762,NONE,,False,openai,233,12
+P0763,NONE,,False,openai,180,12
+P0764,NONE,,False,openai,195,12
+P0765,NONE,,False,openai,210,12
+P0766,BEHAVIOR,Terrible decision on my part to trust Amazon,False,openai,233,23
+P0767,NONE,,False,openai,190,12
+P0768,NONE,,False,openai,159,12
+P0769,NONE,,False,openai,187,12
+P0770,NONE,,False,openai,240,12
+P0771,NONE,,False,openai,194,12
+P0772,NONE,,False,openai,234,12
+P0773,NONE,,False,openai,225,12
+P0774,NONE,,False,openai,277,12
+P0775,NONE,,False,openai,215,12
+P0776,NONE,,False,openai,176,12
+P0777,NONE,,False,openai,174,12
+P0778,NONE,,False,openai,162,12
+P0779,NONE,,False,openai,191,12
+P0780,NONE,,False,openai,192,12
+P0781,NONE,,False,openai,196,12
+P0782,NONE,,False,openai,199,12
+P0783,NONE,,False,openai,226,12
+P0784,BEHAVIOR,Spend the money on duracell or energizer,False,openai,249,24
+P0785,BEHAVIOR,"Spend a little more and get more for your and time, it'll save you in the long run!",False,openai,202,34
+P0786,SITUATION,I was hoping Amazon might try to only put their name brand on half way decent stuff,False,openai,236,31
+P0787,NONE,,False,openai,256,12
+P0788,BEHAVIOR,I wish I had noticed the difference.,False,openai,248,22
+P0789,NONE,,False,openai,158,12
+P0790,NONE,,False,openai,211,12
+P0791,NONE,,False,openai,196,12
+P0792,NONE,,False,openai,195,12
+P0793,NONE,,False,openai,178,12
+P0794,NONE,,False,openai,227,12
+P0795,NONE,,False,openai,193,12
+P0796,NONE,,False,openai,180,12
+P0797,NONE,,False,openai,210,12
+P0798,NONE,,False,openai,189,12
+P0799,NONE,,False,openai,160,12
+P0800,NONE,,False,openai,174,12
+P0801,NONE,,False,openai,170,12
+P0802,NONE,,False,openai,181,12
+P0803,NONE,,False,openai,180,12
+P0804,NONE,,False,openai,222,12
+P0805,NONE,,False,openai,182,12
+P0806,NONE,,False,openai,217,12
+P0807,NONE,,False,openai,206,12
+P0808,NONE,,False,openai,178,12
+P0809,BEHAVIOR,I will go for a brand name next time,False,openai,196,23
+P0810,SITUATION,Amazon should stop selling,False,openai,184,18
+P0811,BEHAVIOR,For the little bit more I would get the Duracell or Enegizer ones.,False,openai,190,32
+P0812,NONE,,False,openai,180,12
+P0813,BEHAVIOR,"if it's something you don't want to be swapping the batteries on all the time, I would go for a different battery",False,openai,220,37
+P0814,NONE,,False,openai,263,12
+P0815,NONE,,False,openai,177,12
+P0816,NONE,,False,openai,166,12
+P0817,NONE,,False,openai,208,12
+P0818,NONE,,False,openai,182,12
+P0819,NONE,,False,openai,253,12
+P0820,NONE,,False,openai,195,12
+P0821,NONE,,False,openai,200,12
+P0822,NONE,,False,openai,237,12
+P0823,NONE,,False,openai,210,12
+P0824,NONE,,False,openai,235,12
+P0825,SITUATION,the batteries do not last long,False,openai,167,20
+P0826,NONE,,False,openai,241,12
+P0827,NONE,,False,openai,179,12
+P0828,NONE,,False,openai,197,12
+P0829,NONE,,False,openai,221,12
+P0830,NONE,,False,openai,162,12
+P0831,NONE,,False,openai,174,12
+P0832,SITUATION,I was wrong,False,openai,244,17
+P0833,NONE,,False,openai,228,12
+P0834,NONE,,False,openai,187,12
+P0835,NONE,,False,openai,184,12
+P0836,NONE,,False,openai,173,12
+P0837,NONE,,False,openai,224,12
+P0838,BEHAVIOR,I am looking into getting a rechargeable battery pack for it because I hate having my controller die mid game.,False,openai,197,35
+P0839,NONE,,False,openai,218,12
+P0840,NONE,,False,openai,156,12
+P0841,NONE,,False,openai,166,12
+P0842,SITUATION,I think these just don't last and are not the best batteries.,False,openai,258,27
+P0843,NONE,,False,openai,157,12
+P0844,NONE,,False,openai,236,12
+P0845,BEHAVIOR,I think I'll stick with top brands in the future,False,openai,225,24
+P0846,NONE,,False,openai,156,12
+P0847,SITUATION,they don't last too long,False,openai,169,19
+P0848,NONE,,False,openai,157,12
+P0849,NONE,,False,openai,160,12
+P0850,NONE,,False,openai,157,12
+P0851,NONE,,False,openai,156,12
+P0852,NONE,,False,openai,156,12
+P0853,NONE,,False,openai,158,12
+P0854,NONE,,False,openai,158,12
+P0855,NONE,,False,openai,157,12
+P0856,NONE,,False,openai,160,12
+P0857,NONE,,False,openai,159,12
+P0858,NONE,,False,openai,159,12
+P0859,NONE,,False,openai,158,12
+P0860,NONE,,False,openai,163,12
+P0861,NONE,,False,openai,161,12
+P0862,NONE,,False,openai,163,12
+P0863,NONE,,False,openai,172,12
+P0864,NONE,,False,openai,173,12
+P0865,NONE,,False,openai,164,12
+P0866,NONE,,False,openai,166,12
+P0867,NONE,,False,openai,157,12
+P0868,NONE,,False,openai,167,12
+P0869,NONE,,False,openai,174,12
+P0870,NONE,,False,openai,157,12
+P0871,SITUATION,Didn't last as long as I would have liked,False,openai,163,23
+P0872,NONE,,False,openai,167,12
+P0873,NONE,,False,openai,158,12
+P0874,NONE,,False,openai,159,12
+P0875,NONE,,False,openai,170,12
+P0876,NONE,,False,openai,164,12
+P0877,NONE,,False,openai,164,12
+P0878,NONE,,False,openai,163,12
+P0879,NONE,,False,openai,159,12
+P0880,NONE,,False,openai,158,12
+P0881,NONE,,False,openai,162,12
+P0882,NONE,,False,openai,162,12
+P0883,NONE,,False,openai,158,12
+P0884,NONE,,False,openai,163,12
+P0885,NONE,,False,openai,173,12
+P0886,NONE,,False,openai,155,12
+P0887,NONE,,False,openai,158,12
+P0888,NONE,,False,openai,160,12
+P0889,NONE,,False,openai,160,12
+P0890,NONE,,False,openai,156,12
+P0891,NONE,,False,openai,165,12
+P0892,NONE,,False,openai,156,12
+P0893,NONE,,False,openai,155,12
+P0894,NONE,,False,openai,161,12
+P0895,NONE,,False,openai,168,12
+P0896,NONE,,False,openai,159,12
+P0897,NONE,,False,openai,165,12
+P0898,NONE,,False,openai,166,12
+P0899,NONE,,False,openai,167,12
+P0900,NONE,,False,openai,165,12
+P0901,NONE,,False,openai,168,12
+P0902,NONE,,False,openai,161,12
+P0903,NONE,,False,openai,171,12
+P0904,NONE,,False,openai,165,12
+P0905,NONE,,False,openai,161,12
+P0906,NONE,,False,openai,170,12
+P0907,NONE,,False,openai,164,12
+P0908,NONE,,False,openai,163,12
+P0909,NONE,,False,openai,161,12
+P0910,NONE,,False,openai,157,12
+P0911,NONE,,False,openai,157,12
+P0912,NONE,,False,openai,156,12
+P0913,NONE,,False,openai,166,12
+P0914,NONE,,False,openai,167,12
+P0915,NONE,,False,openai,164,12
+P0916,NONE,,False,openai,156,12
+P0917,NONE,,False,openai,168,12
+P0918,SITUATION,Made in the USA would make this a 5 star,False,openai,165,25
+P0919,NONE,,False,openai,167,12
+P0920,NONE,,False,openai,168,12
+P0921,NONE,,False,openai,164,12
+P0922,NONE,,False,openai,166,12
+P0923,NONE,,False,openai,158,12
+P0924,NONE,,False,openai,170,12
+P0925,NONE,,False,openai,156,12
+P0926,NONE,,False,openai,166,12
+P0927,NONE,,False,openai,171,12
+P0928,NONE,,False,openai,165,12
+P0929,NONE,,False,openai,155,12
+P0930,NONE,,False,openai,155,12
+P0931,NONE,,False,openai,158,12
+P0932,NONE,,False,openai,155,12
+P0933,NONE,,False,openai,161,12
+P0934,BEHAVIOR,meant to get AAA not AA,False,openai,164,21
+P0935,NONE,,False,openai,160,12
+P0936,NONE,,False,openai,168,12
+P0937,NONE,,False,openai,157,12
+P0938,NONE,,False,openai,159,12
+P0939,NONE,,False,openai,165,12
+P0940,NONE,,False,openai,165,12
+P0941,NONE,,False,openai,162,12
+P0942,NONE,,False,openai,158,12
+P0943,NONE,,False,openai,164,12
+P0944,NONE,,False,openai,172,12
+P0945,SITUATION,don't last as long as I hoped,False,openai,162,21
+P0946,NONE,,False,openai,159,12
+P0947,SITUATION,don't last as long as I'd hoped,False,openai,162,21
+P0948,NONE,,False,openai,164,12
+P0949,NONE,,False,openai,156,12
+P0950,NONE,,False,openai,166,12
+P0951,NONE,,False,openai,165,12
+P0952,NONE,,False,openai,174,12
+P0953,NONE,,False,openai,172,12
+P0954,NONE,,False,openai,167,12
+P0955,NONE,,False,openai,159,12
+P0956,NONE,,False,openai,162,12
+P0957,NONE,,False,openai,169,12
+P0958,NONE,,False,openai,161,12
+P0959,NONE,,False,openai,158,12
+P0960,NONE,,False,openai,167,12
+P0961,NONE,,False,openai,168,12
+P0962,NONE,,False,openai,172,12
+P0963,NONE,,False,openai,168,12
+P0964,NONE,,False,openai,158,12
+P0965,NONE,,False,openai,165,12
+P0966,NONE,,False,openai,162,12
+P0967,NONE,,False,openai,160,12
+P0968,NONE,,False,openai,171,12
+P0969,NONE,,False,openai,162,12
+P0970,NONE,,False,openai,165,12
+P0971,NONE,,False,openai,160,12
+P0972,NONE,,False,openai,162,12
+P0973,NONE,,False,openai,165,12
+P0974,NONE,,False,openai,156,12
+P0975,NONE,,False,openai,156,12
+P0976,NONE,,False,openai,159,12
+P0977,NONE,,False,openai,159,12
+P0978,NONE,,False,openai,167,12
+P0979,NONE,,False,openai,171,12
+P0980,NONE,,False,openai,179,12
+P0981,NONE,,False,openai,157,12
+P0982,SITUATION,when US-sourced batteries are readily available,False,openai,171,22
+P0983,NONE,,False,openai,160,12
+P0984,SITUATION,didn't last long as they should,False,openai,163,21
+P0985,NONE,,False,openai,156,12
+P0986,NONE,,False,openai,155,12
+P0987,NONE,,False,openai,159,12
+P0988,NONE,,False,openai,158,12
+P0989,NONE,,False,openai,167,12
+P0990,NONE,,False,openai,163,12
+P0991,NONE,,False,openai,168,12
+P0992,NONE,,False,openai,216,12
+P0993,NONE,,False,openai,260,12
+P0994,NONE,,False,openai,165,12
+P0995,NONE,,False,openai,164,12
+P0996,NONE,,False,openai,173,12
+P0997,NONE,,False,openai,167,12
+P0998,NONE,,False,openai,157,12
+P0999,NONE,,False,openai,170,12
+P1000,NONE,,False,openai,165,12
+P1001,NONE,,False,openai,164,12
+P1002,NONE,,False,openai,160,12
+P1003,NONE,,False,openai,169,12
+P1004,NONE,,False,openai,157,12
+P1005,SITUATION,Died too fast,False,openai,167,18
+P1006,NONE,,False,openai,156,12
+P1007,NONE,,False,openai,158,12
+P1008,NONE,,False,openai,161,12
+P1009,NONE,,False,openai,161,12
+P1010,NONE,,False,openai,158,12
+P1011,NONE,,False,openai,160,12
+P1012,NONE,,False,openai,156,12
+P1013,NONE,,False,openai,159,12
+P1014,NONE,,False,openai,169,12
+P1015,NONE,,False,openai,159,12
+P1016,NONE,,False,openai,161,12
+P1017,NONE,,False,openai,161,12
+P1018,NONE,,False,openai,166,12
+P1019,NONE,,False,openai,161,12
+P1020,NONE,,False,openai,159,12
+P1021,BEHAVIOR,meant to purchase AA not triple,False,openai,161,21
+P1022,NONE,,False,openai,168,12
+P1023,NONE,,False,openai,166,12
+P1024,NONE,,False,openai,169,12
+P1025,NONE,,False,openai,169,12
+P1026,NONE,,False,openai,172,12
+P1027,NONE,,False,openai,171,12
+P1028,NONE,,False,openai,165,12
+P1029,NONE,,False,openai,159,12
+P1030,NONE,,False,openai,175,12
+P1031,NONE,,False,openai,160,12
+P1032,NONE,,False,openai,160,12
+P1033,NONE,,False,openai,168,12
+P1034,NONE,,False,openai,167,12
+P1035,NONE,,False,openai,156,12
+P1036,NONE,,False,openai,156,12
+P1037,NONE,,False,openai,162,12
+P1038,NONE,,False,openai,158,12
+P1039,NONE,,False,openai,158,12
+P1040,NONE,,False,openai,172,12
+P1041,NONE,,False,openai,161,12
+P1042,NONE,,False,openai,163,12
+P1043,NONE,,False,openai,161,12
+P1044,NONE,,False,openai,174,12
+P1045,NONE,,False,openai,165,12
+P1046,NONE,,False,openai,174,12
+P1047,NONE,,False,openai,172,12
+P1048,NONE,,False,openai,163,12
+P1049,NONE,,False,openai,165,12
+P1050,NONE,,False,openai,170,12
+P1051,NONE,,False,openai,168,12
+P1052,NONE,,False,openai,158,12
+P1053,NONE,,False,openai,161,12
+P1054,NONE,,False,openai,159,12
+P1055,NONE,,False,openai,169,12
+P1056,NONE,,False,openai,159,12
+P1057,NONE,,False,openai,160,12
+P1058,NONE,,False,openai,157,12
+P1059,NONE,,False,openai,159,12
+P1060,NONE,,False,openai,159,12
+P1061,NONE,,False,openai,161,12
+P1062,NONE,,False,openai,161,12
+P1063,NONE,,False,openai,161,12
+P1064,NONE,,False,openai,176,12
+P1065,NONE,,False,openai,161,12
+P1066,NONE,,False,openai,171,12
+P1067,NONE,,False,openai,157,12
+P1068,NONE,,False,openai,208,12
+P1069,NONE,,False,openai,167,12
+P1070,NONE,,False,openai,210,12
+P1071,SITUATION,apparently I'm just stuck for the price of the batteries which are useless,False,openai,233,28
+P1072,NONE,,False,openai,205,12
+P1073,NONE,,False,openai,200,12
+P1074,NONE,,False,openai,235,12
+P1075,NONE,,False,openai,247,12
+P1076,NONE,,False,openai,175,12
+P1077,NONE,,False,openai,186,12
+P1078,NONE,,False,openai,187,12
+P1079,NONE,,False,openai,271,12
+P1080,NONE,,False,openai,166,12
+P1081,NONE,,False,openai,232,12
+P1082,NONE,,False,openai,226,12
+P1083,NONE,,False,openai,170,12
+P1084,NONE,,False,openai,207,12
+P1085,NONE,,False,openai,195,12
+P1086,NONE,,False,openai,215,12
+P1087,NONE,,False,openai,312,12
+P1088,NONE,,False,openai,170,12
+P1089,NONE,,False,openai,219,12
+P1090,NONE,,False,openai,204,12
+P1091,SITUATION,Pay a little more for quality batteries that work.,False,openai,179,24
+P1092,NONE,,False,openai,176,12
+P1093,NONE,,False,openai,184,12
+P1094,NONE,,False,openai,166,12
+P1095,NONE,,False,openai,163,12
+P1096,NONE,,False,openai,164,12
+P1097,NONE,,False,openai,264,12
+P1098,NONE,,False,openai,222,12
+P1099,NONE,,False,openai,175,12
+P1100,NONE,,False,openai,171,12
+P1101,NONE,,False,openai,184,12
+P1102,NONE,,False,openai,207,12
+P1103,NONE,,False,openai,198,12
+P1104,SITUATION,maybe we just got unlucky with ours,False,openai,206,21
+P1105,NONE,,False,openai,229,12
+P1106,NONE,,False,openai,175,12
+P1107,NONE,,False,openai,284,12
+P1108,NONE,,False,openai,184,12
+P1109,NONE,,False,openai,169,12
+P1110,SITUATION,I have to wonder why they changed them,False,openai,392,22
+P1111,NONE,,False,openai,201,12
+P1112,SITUATION,Amazon should never have put their name on such a poor product.,False,openai,183,27
+P1113,NONE,,False,openai,208,12
+P1114,BEHAVIOR,"by the time I realized this, it was over thirty days, so live and learn.",False,openai,196,32
+P1115,NONE,,False,openai,175,12
+P1116,NONE,,False,openai,167,12
+P1117,NONE,,False,openai,171,12
+P1118,SITUATION,wish they had been better,False,openai,170,19
+P1119,NONE,,False,openai,162,12
+P1120,NONE,,False,openai,170,12
+P1121,NONE,,False,openai,180,12
+P1122,NONE,,False,openai,227,12
+P1123,NONE,,False,openai,192,12
+P1124,NONE,,False,openai,172,12
+P1125,NONE,,False,openai,206,12
+P1126,NONE,,False,openai,182,12
+P1127,NONE,,False,openai,178,12
+P1128,NONE,,False,openai,158,12
+P1129,NONE,,False,openai,221,12
+P1130,NONE,,False,openai,281,12
+P1131,NONE,,False,openai,184,12
+P1132,NONE,,False,openai,174,12
+P1133,NONE,,False,openai,177,12
+P1134,NONE,,False,openai,163,12
+P1135,BEHAVIOR,Spend the extra money and buy the Duracell's they will same you money in the long run.,False,openai,220,35
+P1136,NONE,,False,openai,214,12
+P1137,SITUATION,"Guess I got an old, bad batch.",False,openai,309,23
+P1138,NONE,,False,openai,298,12
+P1139,BEHAVIOR,I'll stick to buying batteries at Costco in the future.,False,openai,248,25
+P1140,NONE,,False,openai,203,12
+P1141,NONE,,False,openai,217,12
+P1142,NONE,,False,openai,210,12
+P1143,NONE,,False,openai,178,12
+P1144,BEHAVIOR,I should have never believed that this is Unique Japanese technology,False,openai,344,25
+P1145,NONE,,False,openai,202,12
+P1146,NONE,,False,openai,163,12
+P1147,NONE,,False,openai,166,12
+P1148,NONE,,False,openai,163,12
+P1149,NONE,,False,openai,155,12
+P1150,BEHAVIOR,paid half for something that lasts one quarter,False,openai,215,22
+P1151,NONE,,False,openai,231,12
+P1152,NONE,,False,openai,239,12
+P1153,NONE,,False,openai,215,12
+P1154,NONE,,False,openai,157,12
+P1155,NONE,,False,openai,178,12
+P1156,SITUATION,Amazon Your good name should not be on those bad batteries.,False,openai,349,26
+P1157,NONE,,False,openai,207,12
+P1158,NONE,,False,openai,227,12
+P1159,NONE,,False,openai,221,12
+P1160,SITUATION,I look to my Hama 120 binder to see how it *should* be done,False,openai,556,32
+P1161,NONE,,False,openai,171,12
+P1162,NONE,,False,openai,171,12
+P1163,BEHAVIOR,I'd rather pay a little bit more and have them last a lot longer,False,openai,190,28
+P1164,NONE,,False,openai,189,12
+P1165,NONE,,False,openai,181,12
+P1166,NONE,,False,openai,184,12
+P1167,NONE,,False,openai,187,12
+P1168,NONE,,False,openai,233,12
+P1169,NONE,,False,openai,162,12
+P1170,NONE,,False,openai,171,12
+P1171,NONE,,False,openai,229,12
+P1172,NONE,,False,openai,169,12
+P1173,NONE,,False,openai,207,12
+P1174,NONE,,False,openai,222,12
+P1175,NONE,,False,openai,166,12
+P1176,NONE,,False,openai,179,12
+P1177,SITUATION,Would have been better to just place the lot of bats in a simple box without the individual plastic wrap.,False,openai,218,35
+P1178,NONE,,False,openai,182,12
+P1179,NONE,,False,openai,239,12
+P1180,NONE,,False,openai,185,12
+P1181,NONE,,False,openai,264,12
+P1182,NONE,,False,openai,176,12
+P1183,NONE,,False,openai,238,12
+P1184,NONE,,False,openai,170,12
+P1185,NONE,,False,openai,173,12
+P1186,NONE,,False,openai,243,12
+P1187,BEHAVIOR,Might just look into rechargeable batteries.,False,openai,211,22
+P1188,NONE,,False,openai,209,12
+P1189,NONE,,False,openai,191,12
+P1190,NONE,,False,openai,169,12
+P1191,NONE,,False,openai,202,12
+P1192,NONE,,False,openai,181,12
+P1193,NONE,,False,openai,200,12
+P1194,NONE,,False,openai,162,12
+P1195,NONE,,False,openai,185,12
+P1196,NONE,,False,openai,158,12
+P1197,NONE,,False,openai,193,12
+P1198,NONE,,False,openai,158,12
+P1199,NONE,,False,openai,180,12
+P1200,NONE,,False,openai,231,12
+P1201,BEHAVIOR,"My fault, but it made my put up my guard.",False,openai,195,26
+P1202,NONE,,False,openai,156,12
+P1203,NONE,,False,openai,202,12
+P1204,NONE,,False,openai,174,12
+P1205,NONE,,False,openai,192,12
+P1206,SITUATION,not sure if it was a bad batch but we do not recommend these batteries,False,openai,368,29
+P1207,NONE,,False,openai,215,12
+P1208,NONE,,False,openai,197,12
+P1209,NONE,,False,openai,186,12
+P1210,NONE,,False,openai,162,12
+P1211,NONE,,False,openai,181,12
+P1212,NONE,,False,openai,183,12
+P1213,SITUATION,"Amazon could dominate this market by simply selling, close to these prices, a 5 longer lasting battery than Duracell.",False,openai,245,39
+P1214,NONE,,False,openai,228,12
+P1215,NONE,,False,openai,223,12
+P1216,NONE,,False,openai,204,12
+P1217,NONE,,False,openai,176,12
+P1218,NONE,,False,openai,170,12
+P1219,NONE,,False,openai,162,12
+P1220,NONE,,False,openai,252,12
+P1221,NONE,,False,openai,198,12
+P1222,NONE,,False,openai,193,12
+P1223,NONE,,False,openai,164,12
+P1224,NONE,,False,openai,165,12
+P1225,NONE,,False,openai,178,12
+P1226,NONE,,False,openai,180,12
+P1227,NONE,,False,openai,182,12
+P1228,NONE,,False,openai,185,12
+P1229,NONE,,False,openai,179,12
+P1230,NONE,,False,openai,200,12
+P1231,NONE,,False,openai,191,12
+P1232,NONE,,False,openai,202,12
+P1233,BEHAVIOR,For now I'll stay away from this product and fork out a few more bucks for a battery from a main stream manufacturer.,False,openai,228,38
+P1234,NONE,,False,openai,162,12
+P1235,NONE,,False,openai,224,12
+P1236,NONE,,False,openai,170,12
+P1237,BEHAVIOR,Spend the extra money and go with name brand.,False,openai,202,24
+P1238,NONE,,False,openai,678,12
+P1239,SITUATION,It's better to buy Duracell.,False,openai,177,22
+P1240,NONE,,False,openai,163,12
+P1241,NONE,,False,openai,171,12
+P1242,NONE,,False,openai,196,12
+P1243,NONE,,False,openai,172,12
+P1244,NONE,,False,openai,170,12
+P1245,SITUATION,the 1 most important aspect of a battery is that it not leak,False,openai,299,28
+P1246,NONE,,False,openai,212,12
+P1247,NONE,,False,openai,266,12
+P1248,NONE,,False,openai,160,12
+P1249,NONE,,False,openai,261,12
+P1250,NONE,,False,openai,199,12
+P1251,SITUATION,"I so wanted to like these Amazon batteries, too.",False,openai,680,25
+P1252,NONE,,False,openai,183,12
+P1253,NONE,,False,openai,177,12
+P1254,NONE,,False,openai,199,12
+P1255,NONE,,False,openai,184,12
+P1256,BEHAVIOR,Next time would spend a few more dollars and get something more sturdy and reliable.,False,openai,182,30
+P1257,NONE,,False,openai,196,12
+P1258,NONE,,False,openai,158,12
+P1259,NONE,,False,openai,178,12
+P1260,NONE,,False,openai,183,12
+P1261,NONE,,False,openai,167,12
+P1262,BEHAVIOR,I guess I will go back to the Duracells.,False,openai,229,26
+P1263,NONE,,False,openai,210,12
+P1264,NONE,,False,openai,192,12
+P1265,NONE,,False,openai,242,12
+P1266,NONE,,False,openai,162,12
+P1267,NONE,,False,openai,176,12
+P1268,NONE,,False,openai,234,12
+P1269,NONE,,False,openai,167,12
+P1270,NONE,,False,openai,177,12
+P1271,NONE,,False,openai,165,12
+P1272,NONE,,False,openai,192,12
+P1273,NONE,,False,openai,186,12
+P1274,NONE,,False,openai,179,12
+P1275,NONE,,False,openai,166,12
+P1276,NONE,,False,openai,156,12
+P1277,NONE,,False,openai,164,12
+P1278,NONE,,False,openai,204,12
+P1279,NONE,,False,openai,282,12
+P1280,NONE,,False,openai,163,12
+P1281,NONE,,False,openai,171,12
+P1282,NONE,,False,openai,175,12
+P1283,NONE,,False,openai,178,12
+P1284,NONE,,False,openai,160,12
+P1285,NONE,,False,openai,155,12
+P1286,NONE,,False,openai,167,12
+P1287,NONE,,False,openai,173,12
+P1288,NONE,,False,openai,172,12
+P1289,NONE,,False,openai,160,12
+P1290,NONE,,False,openai,161,12
+P1291,NONE,,False,openai,166,12
+P1292,NONE,,False,openai,159,12
+P1293,NONE,,False,openai,156,12
+P1294,NONE,,False,openai,158,12
+P1295,NONE,,False,openai,158,12
+P1296,NONE,,False,openai,158,12
+P1297,NONE,,False,openai,156,12
+P1298,NONE,,False,openai,162,12
+P1299,NONE,,False,openai,169,12
+P1300,NONE,,False,openai,167,12
+P1301,NONE,,False,openai,161,12
+P1302,NONE,,False,openai,200,12
+P1303,NONE,,False,openai,182,12
+P1304,NONE,,False,openai,167,12
+P1305,NONE,,False,openai,161,12
+P1306,NONE,,False,openai,162,12
+P1307,NONE,,False,openai,181,12
+P1308,NONE,,False,openai,175,12
+P1309,NONE,,False,openai,166,12
+P1310,BEHAVIOR,I'd spend few dollars more and buy Duracell pack from Costco.,False,openai,189,28
+P1311,NONE,,False,openai,223,12
+P1312,NONE,,False,openai,169,12
+P1313,NONE,,False,openai,184,12
+P1314,NONE,,False,openai,231,12
+P1315,SITUATION,did not come with the shoulder strap,False,openai,178,21
+P1316,SITUATION,Altra needs to pay more attention to sizing,False,openai,292,23
+P1317,NONE,,False,openai,218,12
+P1318,NONE,,False,openai,183,12
+P1319,SITUATION,Boo to you Amazon for selling batteries that don't actually work.,False,openai,229,27
+P1320,NONE,,False,openai,161,12
+P1321,NONE,,False,openai,168,12
+P1322,NONE,,False,openai,203,12
+P1323,NONE,,False,openai,240,12
+P1324,NONE,,False,openai,178,12
+P1325,NONE,,False,openai,197,12
+P1326,NONE,,False,openai,156,12
+P1327,NONE,,False,openai,219,12
+P1328,NONE,,False,openai,286,12
+P1329,NONE,,False,openai,198,12
+P1330,NONE,,False,openai,173,12
+P1331,NONE,,False,openai,232,12
+P1332,NONE,,False,openai,213,12
+P1333,NONE,,False,openai,197,12
+P1334,NONE,,False,openai,173,12
+P1335,SITUATION,Would love to go for a great generic brand but this just isn't it.,False,openai,223,29
+P1336,SITUATION,They last a very short time once in use,False,openai,184,23
+P1337,NONE,,False,openai,168,12
+P1338,NONE,,False,openai,194,12
+P1339,NONE,,False,openai,160,12
+P1340,NONE,,False,openai,177,12
+P1341,NONE,,False,openai,156,12
+P1342,NONE,,False,openai,158,12
+P1343,NONE,,False,openai,169,12
+P1344,NONE,,False,openai,166,12
+P1345,SITUATION,it seems they don't last as long as the major brands,False,openai,171,25
+P1346,SITUATION,they die quickly,False,openai,162,17
+P1347,NONE,,False,openai,159,12
+P1348,NONE,,False,openai,159,12
+P1349,NONE,,False,openai,166,12
+P1350,NONE,,False,openai,162,12
+P1351,NONE,,False,openai,166,12
+P1352,NONE,,False,openai,160,12
+P1353,NONE,,False,openai,159,12
+P1354,NONE,,False,openai,160,12
+P1355,NONE,,False,openai,168,12
+P1356,NONE,,False,openai,171,12
+P1357,NONE,,False,openai,167,12
+P1358,NONE,,False,openai,163,12
+P1359,NONE,,False,openai,159,12
+P1360,NONE,,False,openai,164,12
+P1361,NONE,,False,openai,158,12
+P1362,NONE,,False,openai,171,12
+P1363,SITUATION,wish they were USA made,False,openai,163,19
+P1364,NONE,,False,openai,161,12
+P1365,NONE,,False,openai,157,12
+P1366,NONE,,False,openai,165,12
+P1367,NONE,,False,openai,205,12
+P1368,NONE,,False,openai,155,12
+P1369,NONE,,False,openai,160,12
+P1370,NONE,,False,openai,168,12
+P1371,NONE,,False,openai,168,12
+P1372,NONE,,False,openai,157,12
+P1373,NONE,,False,openai,162,12
+P1374,NONE,,False,openai,163,12
+P1375,NONE,,False,openai,163,12
+P1376,NONE,,False,openai,167,12
+P1377,NONE,,False,openai,170,12
+P1378,NONE,,False,openai,160,12
+P1379,NONE,,False,openai,168,12
+P1380,NONE,,False,openai,158,12
+P1381,BEHAVIOR,And I could have bought Energizer batteries.,False,openai,184,23
+P1382,NONE,,False,openai,209,12
+P1383,NONE,,False,openai,219,12
+P1384,NONE,,False,openai,176,12
+P1385,SITUATION,i wish the have rechargeable ones,False,openai,177,20
+P1386,NONE,,False,openai,208,12
+P1387,SITUATION,Amazon should reconsider selling these turkeys,False,openai,209,21
+P1388,NONE,,False,openai,173,12
+P1389,NONE,,False,openai,209,12
+P1390,NONE,,False,openai,158,12
+P1391,NONE,,False,openai,176,12
+P1392,NONE,,False,openai,177,12
+P1393,NONE,,False,openai,177,12
+P1394,NONE,,False,openai,166,12
+P1395,NONE,,False,openai,162,12
+P1396,SITUATION,The guards just need to be brought down and 1/2 their size and this would be perfect.,False,openai,237,35
+P1397,NONE,,False,openai,224,12
+P1398,NONE,,False,openai,168,12
+P1399,NONE,,False,openai,176,12
+P1400,NONE,,False,openai,272,12
+P1401,NONE,,False,openai,241,12
+P1402,NONE,,False,openai,185,12
+P1403,NONE,,False,openai,192,12
+P1404,BEHAVIOR,"Don't make my mistake, buy the CASE LOGIC ELS-111 11",False,openai,368,30
+P1405,BEHAVIOR,I recommend spending few extra shekels and buy a case that fully opens.,False,openai,225,30
+P1406,NONE,,False,openai,179,12
+P1407,NONE,,False,openai,160,12
+P1408,NONE,,False,openai,195,12
+P1409,NONE,,False,openai,163,12
+P1410,SITUATION,it should have been included with the Kindle Paperwhite,False,openai,242,24
+P1411,SITUATION,"I had been considering upgrading to one of the new Kindle products, but after having this recurring problem, I am leery of spending that kind of money, only to possibly have the same issue.",False,openai,536,53
+P1412,SITUATION,"So basically I paid for a radio. I paid extra for the larger one, but the output is still no different than a clock radio.",False,openai,286,42
+P1413,SITUATION,Jeff needs to pay to send his programmers back to search school,False,openai,285,26
+P1414,NONE,,False,openai,177,12
+P1415,NONE,,False,openai,198,12
+P1416,NONE,,False,openai,184,12
+P1417,NONE,,False,openai,186,12
+P1418,NONE,,False,openai,176,12
+P1419,NONE,,False,openai,186,12
+P1420,NONE,,False,openai,221,12
+P1421,BEHAVIOR,I wish I would've just bought the other one,False,openai,183,23
+P1422,SITUATION,Needs to be able to apps better.,False,openai,243,22
+P1423,NONE,,False,openai,192,12
+P1424,NONE,,False,openai,178,12
+P1425,NONE,,False,openai,166,12
+P1426,NONE,,False,openai,163,12
+P1427,NONE,,False,openai,176,12
+P1428,NONE,,False,openai,247,12
+P1429,NONE,,False,openai,228,12
+P1430,BEHAVIOR,I should have done some research before buying the Tap.,False,openai,214,25
+P1431,NONE,,False,openai,176,12
+P1432,NONE,,False,openai,163,12
+P1433,NONE,,False,openai,181,12
+P1434,SITUATION,its not voice activated..so u have to push the wake button anytime u need to use it,False,openai,192,33
+P1435,NONE,,False,openai,197,12
+P1436,NONE,,False,openai,180,12
+P1437,NONE,,False,openai,195,12
+P1438,SITUATION,wish the sound quality was better,False,openai,164,20
+P1439,NONE,,False,openai,168,12
+P1440,NONE,,False,openai,200,12
+P1441,NONE,,False,openai,260,12
+P1442,SITUATION,would have been more useful without having to have to make additional purchases,False,openai,175,27
+P1443,SITUATION,"it cant use Spotify for free, also its search is not smart enough",False,openai,315,28
+P1444,SITUATION,you should be able to use as a speaker when talking on the phone,False,openai,192,28
+P1445,SITUATION,The sound is ok. I think the larger model is probably better.,False,openai,186,28
+P1446,SITUATION,I really wanted to take it back because it can be a little annoying to hold down the button every time you have a question,False,openai,217,39
+P1447,SITUATION,the need to touch a button for voice services renders it far less valuable,False,openai,201,28
+P1448,NONE,,False,openai,170,12
+P1449,BEHAVIOR,Would buy the cheaper one than I bought,False,openai,168,22
+P1450,NONE,,False,openai,191,12
+P1451,NONE,,False,openai,189,12
+P1452,NONE,,False,openai,168,12
+P1453,SITUATION,"The Tap makes you press the mic button every time you wish to communicate with Alexa, which seems to defeat the purpose.",False,openai,216,38
+P1454,SITUATION,You have to walk up the the Tap to touch it - this is not as convenient and not as fun as the talking to the Echo from across the room.,False,openai,285,46
+P1455,NONE,,False,openai,176,12
+P1456,NONE,,False,openai,182,12
+P1457,NONE,,False,openai,184,12
+P1458,NONE,,False,openai,170,12
+P1459,NONE,,False,openai,207,12
+P1460,SITUATION,the fact that you have to touch the button to activate it instead of just talking to it is a bit annoying,False,openai,193,36
+P1461,NONE,,False,openai,242,12
+P1462,NONE,,False,openai,194,12
+P1463,BEHAVIOR,My ignorance led me to its 79 price.,False,openai,233,24
+P1464,NONE,,False,openai,193,12
+P1465,BEHAVIOR,For some reason I thought I just had to have this too when I bought my Kindle.,False,openai,220,32
+P1466,SITUATION,this should've been included when I purchased my Kindles,False,openai,388,25
+P1467,SITUATION,I like that the previous simple FIRE charger was universal (i.e. 100V-240v). I like that the first Kindle charger was also universal. What are you people doing,False,openai,436,51
+P1468,BEHAVIOR,If I had left the software as it was my Kindle Voyage would still be working.,False,openai,237,31
+P1469,SITUATION,thought they should do something more to minimize the loss and keep my business,False,openai,241,28
+P1470,NONE,,False,openai,171,12
+P1471,NONE,,False,openai,182,12
+P1472,SITUATION,15 days seems a little extreme in a situation like this with a defective product,False,openai,326,29
+P1473,NONE,,False,openai,165,12
+P1474,NONE,,False,openai,178,12
+P1475,NONE,,False,openai,237,12
+P1476,BEHAVIOR,In hindsight I would go with the paper white and save a few bucks.,False,openai,217,29
+P1477,NONE,,False,openai,165,12
+P1478,NONE,,False,openai,187,12
+P1479,NONE,,False,openai,207,12
+P1480,SITUATION,it sure would be nice to allow page turns only with the 'side buttons' - I think this is a major design flaw,False,openai,280,39
+P1481,NONE,,False,openai,173,12
+P1482,SITUATION,i thhought that the battery would last longer,False,openai,203,24
+P1483,NONE,,False,openai,167,12
+P1484,NONE,,False,openai,181,12
+P1485,NONE,,False,openai,169,12
+P1486,NONE,,False,openai,167,12
+P1487,SITUATION,I was hoping to use Google launcher with this tablet but it is really locked down and you cannot change the launcher or the lock screen.,False,openai,188,41
+P1488,NONE,,False,openai,192,12
+P1489,NONE,,False,openai,199,12
+P1490,NONE,,False,openai,172,12
+P1491,NONE,,False,openai,238,12
+P1492,NONE,,False,openai,203,12
+P1493,NONE,,False,openai,245,12
+P1494,NONE,,False,openai,169,12
+P1495,NONE,,False,openai,184,12
+P1496,NONE,,False,openai,182,12
+P1497,NONE,,False,openai,205,12
+P1498,NONE,,False,openai,171,12
+P1499,NONE,,False,openai,165,12
+P1500,NONE,,False,openai,194,12
+P1501,NONE,,False,openai,255,12
+P1502,NONE,,False,openai,166,12
+P1503,NONE,,False,openai,183,12
+P1504,SITUATION,should last longer than that,False,openai,183,19
+P1505,NONE,,False,openai,265,12
+P1506,NONE,,False,openai,170,12
+P1507,NONE,,False,openai,173,12
+P1508,NONE,,False,openai,234,12
+P1509,SITUATION,Hope I can get my money back. Or get a new one.,False,openai,244,28
+P1510,NONE,,False,openai,208,12
+P1511,NONE,,False,openai,185,12
+P1512,NONE,,False,openai,219,12
+P1513,SITUATION,"Android - who is the ultimate culprit, has failed to fix it at the source",False,openai,368,30
+P1514,NONE,,False,openai,248,12
+P1515,SITUATION,if it worked properly,False,openai,229,18
+P1516,NONE,,False,openai,358,12
+P1517,NONE,,False,openai,173,12
+P1518,NONE,,False,openai,209,12
+P1519,NONE,,False,openai,180,12
+P1520,NONE,,False,openai,197,12
+P1521,NONE,,False,openai,202,12
+P1522,SITUATION,availability of apps thru their appstore is limited,False,openai,168,23
+P1523,NONE,,False,openai,175,12
+P1524,SITUATION,it should be better made,False,openai,174,19
+P1525,NONE,,False,openai,169,12
+P1526,NONE,,False,openai,177,12
+P1527,SITUATION,Wish it was easier to understand set up,False,openai,171,22
+P1528,NONE,,False,openai,169,12
+P1529,SITUATION,the NBC app isn't compatible,False,openai,175,19
+P1530,SITUATION,we can't view the movie library we have on this tablet,False,openai,292,25
+P1531,NONE,,False,openai,220,12
+P1532,NONE,,False,openai,254,12
+P1533,SITUATION,who could've imagined they wouldn't play NETFLIX!!,False,openai,286,25
+P1534,SITUATION,Why couldn't there be an upfront statement on the box or in the store stating that the 'low price' is subsidized by all the ads on the device?,False,openai,277,46
+P1535,NONE,,False,openai,207,12
+P1536,BEHAVIOR,I should have spent the money to just get a new iPad since that is what we were used to.,False,openai,317,36
+P1537,SITUATION,This means lots of times helping get back into the movie or show rather than just relaxing like an iPad can do with guided access activated.,False,openai,238,42
+P1538,NONE,,False,openai,182,12
+P1539,NONE,,False,openai,171,12
+P1540,NONE,,False,openai,181,12
+P1541,SITUATION,the tablet should've been able to handle that is designed for kids,False,openai,229,27
+P1542,SITUATION,I would rather pay more and not have a single ad.,False,openai,181,26
+P1543,NONE,,False,openai,165,12
+P1544,NONE,,False,openai,173,12
+P1545,NONE,,False,openai,167,12
+P1546,NONE,,False,openai,176,12
+P1547,NONE,,False,openai,176,12
+P1548,NONE,,False,openai,261,12
+P1549,SITUATION,too bad,False,openai,182,16
+P1550,BEHAVIOR,I rather have bought Samsung Galaxy Tab,False,openai,164,21
+P1551,NONE,,False,openai,185,12
+P1552,NONE,,False,openai,188,12
+P1553,NONE,,False,openai,235,12
+P1554,NONE,,False,openai,171,12
+P1555,NONE,,False,openai,187,12
+P1556,NONE,,False,openai,194,12
+P1557,NONE,,False,openai,172,12
+P1558,NONE,,False,openai,169,12
+P1559,NONE,,False,openai,167,12
+P1560,NONE,,False,openai,225,12
+P1561,NONE,,False,openai,214,12
+P1562,NONE,,False,openai,167,12
+P1563,NONE,,False,openai,170,12
+P1564,SITUATION,ads that apparently can't be shut off and you can't upload and and play downloaded YouTube videos unless you are online,False,openai,189,36
+P1565,NONE,,False,openai,175,12
+P1566,NONE,,False,openai,171,12
+P1567,SITUATION,This could have been a defect in this one tablet,False,openai,217,24
+P1568,NONE,,False,openai,183,12
+P1569,NONE,,False,openai,251,12
+P1570,NONE,,False,openai,202,12
+P1571,NONE,,False,openai,190,12
+P1572,NONE,,False,openai,169,12
+P1573,NONE,,False,openai,193,12
+P1574,SITUATION,I would give it 5 stars if you are able to download an use apps from the Google store,False,openai,236,34
+P1575,NONE,,False,openai,206,12
+P1576,NONE,,False,openai,241,12
+P1577,NONE,,False,openai,171,12
+P1578,NONE,,False,openai,177,12
+P1579,NONE,,False,openai,165,12
+P1580,NONE,,False,openai,159,12
+P1581,NONE,,False,openai,183,12
+P1582,NONE,,False,openai,184,12
+P1583,NONE,,False,openai,170,12
+P1584,SITUATION,"The only thing I wish, was that it could access the Google Play Store",False,openai,215,29
+P1585,BEHAVIOR,If he would only let one of figure out apps and other functions.,False,openai,200,28
+P1586,NONE,,False,openai,168,12
+P1587,NONE,,False,openai,165,12
+P1588,NONE,,False,openai,186,12
+P1589,NONE,,False,openai,184,12
+P1590,NONE,,False,openai,181,12
+P1591,NONE,,False,openai,205,12
+P1592,NONE,,False,openai,180,12
+P1593,SITUATION,"I wish there were ways to mirror the screen to a tv without having to purchase a Fire TV streaming stick. Also, the inability to use the google play store is a major set back.",False,openai,239,52
+P1594,NONE,,False,openai,175,12
+P1595,NONE,,False,openai,229,12
+P1596,NONE,,False,openai,223,12
+P1597,NONE,,False,openai,173,12
+P1598,NONE,,False,openai,169,12
+P1599,NONE,,False,openai,180,12
+P1600,NONE,,False,openai,178,12
+P1601,NONE,,False,openai,180,12
+P1602,NONE,,False,openai,168,12
+P1603,NONE,,False,openai,177,12
+P1604,NONE,,False,openai,213,12
+P1605,NONE,,False,openai,227,12
+P1606,NONE,,False,openai,163,12
+P1607,NONE,,False,openai,205,12
+P1608,NONE,,False,openai,175,12
+P1609,NONE,,False,openai,247,12
+P1610,NONE,,False,openai,180,12
+P1611,BEHAVIOR,I wish I would have investigated them a little more before just jumping in.,False,openai,178,29
+P1612,NONE,,False,openai,182,12
+P1613,NONE,,False,openai,185,12
+P1614,NONE,,False,openai,207,12
+P1615,SITUATION,we couldn't because you have to have a amazon account to do anything with it,False,openai,206,29
+P1616,NONE,,False,openai,227,12
+P1617,NONE,,False,openai,167,12
+P1618,NONE,,False,openai,214,12
+P1619,SITUATION,it doesn't have a mirror display mode,False,openai,164,21
+P1620,BEHAVIOR,Next time I will buy her a samsung,False,openai,184,22
+P1621,SITUATION,I am disappointed that this is not more toddler friendly.,False,openai,218,25
+P1622,NONE,,False,openai,197,12
+P1623,NONE,,False,openai,193,12
+P1624,NONE,,False,openai,171,12
+P1625,NONE,,False,openai,286,12
+P1626,NONE,,False,openai,178,12
+P1627,NONE,,False,openai,253,12
+P1628,NONE,,False,openai,180,12
+P1629,NONE,,False,openai,194,12
+P1630,NONE,,False,openai,172,12
+P1631,NONE,,False,openai,488,12
+P1632,SITUATION,Really wish it had the capability to lock onto the movie screen while my toddler watches movies.,False,openai,205,32
+P1633,NONE,,False,openai,172,12
+P1634,NONE,,False,openai,246,12
+P1635,SITUATION,should last longer for the money,False,openai,171,20
+P1636,NONE,,False,openai,168,12
+P1637,NONE,,False,openai,164,12
+P1638,NONE,,False,openai,168,12
+P1639,NONE,,False,openai,197,12
+P1640,NONE,,False,openai,228,12
+P1641,NONE,,False,openai,216,12
+P1642,NONE,,False,openai,258,12
+P1643,NONE,,False,openai,175,12
+P1644,NONE,,False,openai,339,12
+P1645,NONE,,False,openai,165,12
+P1646,NONE,,False,openai,179,12
+P1647,NONE,,False,openai,201,12
+P1648,BEHAVIOR,this is on me for not researching,False,openai,293,21
+P1649,SITUATION,The lack of google chrome compatibility made this tablet not right for me.,False,openai,191,28
+P1650,NONE,,False,openai,223,12
+P1651,NONE,,False,openai,264,12
+P1652,NONE,,False,openai,166,12
+P1653,NONE,,False,openai,169,12
+P1654,NONE,,False,openai,167,12
+P1655,SITUATION,Why isn't there a manual or step by step guide on getting the most use out of Kindle Fire 8.,False,openai,273,36
+P1656,NONE,,False,openai,180,12
+P1657,SITUATION,imagine the port is not covered under the manufacturer warranty,False,openai,237,25
+P1658,NONE,,False,openai,166,12
+P1659,NONE,,False,openai,228,12
+P1660,NONE,,False,openai,185,12
+P1661,SITUATION,I would recommend seeing if your app is supported on this Fire before dropping the money.,False,openai,249,31
+P1662,SITUATION,I think the age recommendation should be 5+ not 3+,False,openai,249,28
+P1663,NONE,,False,openai,169,12
+P1664,NONE,,False,openai,192,12
+P1665,SITUATION,WHY get rid of it?,False,openai,337,20
+P1666,NONE,,False,openai,186,12
+P1667,NONE,,False,openai,165,12
+P1668,NONE,,False,openai,168,12
+P1669,BEHAVIOR,If I hadn't already introduce her to the ipad,False,openai,202,23
+P1670,SITUATION,wish it had bluetooth,False,openai,165,18
+P1671,SITUATION,as this tablet was designed to be exclusive to Amazon,False,openai,191,24
+P1672,NONE,,False,openai,171,12
+P1673,SITUATION,You'll need to get an SD card and set things to download to that or it will freeze and stop working.,False,openai,186,36
+P1674,SITUATION,if it came with a simple basic instructions,False,openai,175,22
+P1675,NONE,,False,openai,165,12
+P1676,SITUATION,Best Buy should know and let customers know specially when u ask specifically,False,openai,265,27
+P1677,NONE,,False,openai,165,12
+P1678,NONE,,False,openai,184,12
+P1679,NONE,,False,openai,167,12
+P1680,NONE,,False,openai,263,12
+P1681,NONE,,False,openai,172,12
+P1682,NONE,,False,openai,185,12
+P1683,SITUATION,unless they make them the same quality as before,False,openai,286,23
+P1684,NONE,,False,openai,171,12
+P1685,NONE,,False,openai,205,12
+P1686,NONE,,False,openai,235,12
+P1687,NONE,,False,openai,166,12
+P1688,NONE,,False,openai,216,12
+P1689,NONE,,False,openai,164,12
+P1690,NONE,,False,openai,184,12
+P1691,SITUATION,Dont have option for password ask you before buying apps,False,openai,181,24
+P1692,NONE,,False,openai,191,12
+P1693,SITUATION,no instructions on how to get started,False,openai,169,21
+P1694,NONE,,False,openai,183,12
+P1695,BEHAVIOR,My fault for not reading up on his device before hand.,False,openai,207,26
+P1696,NONE,,False,openai,236,12
+P1697,BEHAVIOR,"If I were you I'd look at a regular Android tablet from a reputable PC manufacturer, which is exactly what I did next.",False,openai,465,39
+P1698,NONE,,False,openai,181,12
+P1699,NONE,,False,openai,206,12
+P1700,NONE,,False,openai,170,12
+P1701,NONE,,False,openai,177,12
+P1702,NONE,,False,openai,175,12
+P1703,NONE,,False,openai,244,12
+P1704,NONE,,False,openai,166,12
+P1705,NONE,,False,openai,210,12
+P1706,NONE,,False,openai,164,12
+P1707,SITUATION,Setup process could be easier.,False,openai,165,20
+P1708,NONE,,False,openai,169,12
+P1709,NONE,,False,openai,174,12
+P1710,NONE,,False,openai,201,12
+P1711,NONE,,False,openai,225,12
+P1712,NONE,,False,openai,203,12
+P1713,NONE,,False,openai,182,12
+P1714,NONE,,False,openai,170,12
+P1715,NONE,,False,openai,177,12
+P1716,NONE,,False,openai,231,12
+P1717,NONE,,False,openai,165,12
+P1718,NONE,,False,openai,190,12
+P1719,NONE,,False,openai,171,12
+P1720,NONE,,False,openai,185,12
+P1721,NONE,,False,openai,169,12
+P1722,NONE,,False,openai,196,12
+P1723,SITUATION,Wish it was a bit faster loading and browsing,False,openai,194,23
+P1724,NONE,,False,openai,170,12
+P1725,NONE,,False,openai,173,12
+P1726,SITUATION,who could've imagined they wouldn't play NETFLIX,False,openai,286,24
+P1727,NONE,,False,openai,176,12
+P1728,NONE,,False,openai,212,12
+P1729,NONE,,False,openai,191,12
+P1730,SITUATION,Wish I could.,False,openai,215,18
+P1731,SITUATION,"Without the apps that I need, this tablet is not as useful.",False,openai,183,28
+P1732,NONE,,False,openai,224,12
+P1733,NONE,,False,openai,208,12
+P1734,NONE,,False,openai,169,12
+P1735,NONE,,False,openai,185,12
+P1736,SITUATION,It's isn't an straight out the box tablet,False,openai,211,22
+P1737,SITUATION,The sales representative at the store told me this is what I needed.,False,openai,233,28
+P1738,BEHAVIOR,so you should get that if you can afford the extra $50,False,openai,401,27
+P1739,NONE,,False,openai,170,12
+P1740,NONE,,False,openai,164,12
+P1741,NONE,,False,openai,188,12
+P1742,NONE,,False,openai,172,12
+P1743,SITUATION,"Amazon if you want $105 dollars for the Kindle Fire, charge it! but don't under price the device, and then flash ads at the the consumer at every opportunity.",False,openai,244,48
+P1744,NONE,,False,openai,181,12
+P1745,NONE,,False,openai,167,12
+P1746,NONE,,False,openai,265,12
+P1747,NONE,,False,openai,242,12
+P1748,NONE,,False,openai,183,12
+P1749,NONE,,False,openai,237,12
+P1750,BEHAVIOR,I'd rather have spent $500 on a different tablet than this garbage.,False,openai,302,28
+P1751,NONE,,False,openai,175,12
+P1752,BEHAVIOR,Should have spent more and got another Samsung Galaxy Tab.,False,openai,186,25
+P1753,NONE,,False,openai,234,12
+P1754,NONE,,False,openai,167,12
+P1755,NONE,,False,openai,211,12
+P1756,BEHAVIOR,I would spend the extra $$ for at least something that has a 1 year limited warranty.,False,openai,226,33
+P1757,NONE,,False,openai,193,12
+P1758,NONE,,False,openai,165,12
+P1759,NONE,,False,openai,173,12
+P1760,NONE,,False,openai,169,12
+P1761,NONE,,False,openai,176,12
+P1762,NONE,,False,openai,179,12
+P1763,NONE,,False,openai,172,12
+P1764,NONE,,False,openai,236,12
+P1765,NONE,,False,openai,223,12
+P1766,SITUATION,Until Amazon loosens its grip,False,openai,203,20
+P1767,NONE,,False,openai,190,12
+P1768,NONE,,False,openai,213,12
+P1769,NONE,,False,openai,213,12
+P1770,NONE,,False,openai,171,12
+P1771,BEHAVIOR,i didn‚Äôt hurry to buy a cover,False,openai,240,24
+P1772,NONE,,False,openai,182,12
+P1773,NONE,,False,openai,181,12
+P1774,SITUATION,I wish the tablet was faster and more consistent.,False,openai,188,24
+P1775,BEHAVIOR,I was a little misinformed about the connectivity,False,openai,220,24
+P1776,NONE,,False,openai,167,12
+P1777,NONE,,False,openai,175,12
+P1778,NONE,,False,openai,192,12
+P1779,NONE,,False,openai,176,12
+P1780,NONE,,False,openai,172,12
+P1781,NONE,,False,openai,164,12
+P1782,NONE,,False,openai,183,12
+P1783,NONE,,False,openai,171,12
+P1784,NONE,,False,openai,216,12
+P1785,NONE,,False,openai,268,12
+P1786,NONE,,False,openai,171,12
+P1787,NONE,,False,openai,183,12
+P1788,SITUATION,"if I can't use Google apps on it, I won't like this",False,openai,423,27
+P1789,NONE,,False,openai,171,12
+P1790,NONE,,False,openai,171,12
+P1791,SITUATION,"I purchased this expecting the same quality in sound, or better",False,openai,213,26
+P1792,NONE,,False,openai,186,12
+P1793,SITUATION,Needs to have a cover a little slippery.,False,openai,187,23
+P1794,SITUATION,I wish it has some more of the apps from the play store,False,openai,172,27
+P1795,NONE,,False,openai,213,12
+P1796,NONE,,False,openai,214,12
+P1797,NONE,,False,openai,177,12
+P1798,NONE,,False,openai,166,12
+P1799,NONE,,False,openai,169,12
+P1800,NONE,,False,openai,173,12
+P1801,NONE,,False,openai,176,12
+P1802,SITUATION,the camera could be a little better,False,openai,166,21
+P1803,NONE,,False,openai,172,12
+P1804,SITUATION,I sort of expected better especially as I got hooked on online games.,False,openai,181,28
+P1805,NONE,,False,openai,184,12
+P1806,NONE,,False,openai,169,12
+P1807,NONE,,False,openai,223,12
+P1808,SITUATION,"I would highly recommend skipping this tablet and getting one that is not tied to any one company's operations, programming, or software.",False,openai,257,39
+P1809,NONE,,False,openai,165,12
+P1810,NONE,,False,openai,181,12
+P1811,NONE,,False,openai,262,12
+P1812,NONE,,False,openai,177,12
+P1813,SITUATION,"Too proprietary, the apps my daughter liked I could not install on it",False,openai,181,28
+P1814,NONE,,False,openai,162,12
+P1815,NONE,,False,openai,197,12
+P1816,NONE,,False,openai,167,12
+P1817,NONE,,False,openai,168,12
+P1818,NONE,,False,openai,164,12
+P1819,NONE,,False,openai,167,12
+P1820,NONE,,False,openai,165,12
+P1821,NONE,,False,openai,226,12
+P1822,SITUATION,Something should be changed regarding the port for the charger.,False,openai,284,25
+P1823,BEHAVIOR,"Stick with a name brand tablet - Apple, Samsung, etc.",False,openai,196,27
+P1824,NONE,,False,openai,169,12
+P1825,NONE,,False,openai,172,12
+P1826,NONE,,False,openai,282,12
+P1827,NONE,,False,openai,168,12
+P1828,NONE,,False,openai,164,12
+P1829,NONE,,False,openai,178,12
+P1830,NONE,,False,openai,176,12
+P1831,NONE,,False,openai,174,12
+P1832,NONE,,False,openai,165,12
+P1833,NONE,,False,openai,240,12
+P1834,NONE,,False,openai,239,12
+P1835,NONE,,False,openai,178,12
+P1836,NONE,,False,openai,233,12
+P1837,NONE,,False,openai,233,12
+P1838,NONE,,False,openai,171,12
+P1839,SITUATION,I was planning on buying one for each of my 9 nieces and nephews if they ran well but now I know that wouldn't work for them because they are horrible.,False,openai,245,47
+P1840,NONE,,False,openai,179,12
+P1841,NONE,,False,openai,185,12
+P1842,NONE,,False,openai,208,12
+P1843,NONE,,False,openai,198,12
+P1844,NONE,,False,openai,167,12
+P1845,NONE,,False,openai,197,12
+P1846,NONE,,False,openai,172,12
+P1847,NONE,,False,openai,171,12
+P1848,BEHAVIOR,Bought it accidentally,False,openai,167,17
+P1849,NONE,,False,openai,237,12
+P1850,SITUATION,it should have been a better camera,False,openai,237,21
+P1851,NONE,,False,openai,174,12
+P1852,NONE,,False,openai,232,12
+P1853,SITUATION,it totally shuts off by itself,False,openai,181,20
+P1854,NONE,,False,openai,218,12
+P1855,NONE,,False,openai,185,12
+P1856,NONE,,False,openai,260,12
+P1857,NONE,,False,openai,198,12
+P1858,NONE,,False,openai,173,12
+P1859,SITUATION,I would prefer to be able to select close all or exit all,False,openai,177,27
+P1860,NONE,,False,openai,193,12
+P1861,NONE,,False,openai,306,12
+P1862,BEHAVIOR,I should have went with an iPad.,False,openai,196,23
+P1863,NONE,,False,openai,171,12
+P1864,SITUATION,was kind of disappointed that i couldnt make calls,False,openai,179,23
+P1865,NONE,,False,openai,171,12
+P1866,NONE,,False,openai,164,12
+P1867,NONE,,False,openai,189,12
+P1868,NONE,,False,openai,201,12
+P1869,NONE,,False,openai,220,12
+P1870,SITUATION,Amazon should have done much better job to make it a better product to compete with Samsung and apple.,False,openai,252,34
+P1871,NONE,,False,openai,172,12
+P1872,NONE,,False,openai,194,12
+P1873,NONE,,False,openai,226,12
+P1874,NONE,,False,openai,224,12
+P1875,NONE,,False,openai,185,12
+P1876,NONE,,False,openai,199,12
+P1877,BEHAVIOR,"Read the fine print, they don't cover most problems with the tablet. Learned this the hard way",False,openai,184,33
+P1878,NONE,,False,openai,201,12
+P1879,NONE,,False,openai,228,12
+P1880,NONE,,False,openai,176,12
+P1881,NONE,,False,openai,212,12
+P1882,NONE,,False,openai,168,12
+P1883,NONE,,False,openai,171,12
+P1884,NONE,,False,openai,171,12
+P1885,NONE,,False,openai,175,12
+P1886,SITUATION,has gave us a little trouble from the start,False,openai,181,23
+P1887,NONE,,False,openai,235,12
+P1888,NONE,,False,openai,164,12
+P1889,NONE,,False,openai,386,12
+P1890,NONE,,False,openai,179,12
+P1891,NONE,,False,openai,172,12
+P1892,NONE,,False,openai,448,12
+P1893,NONE,,False,openai,194,12
+P1894,NONE,,False,openai,200,12
+P1895,NONE,,False,openai,175,12
+P1896,NONE,,False,openai,181,12
+P1897,NONE,,False,openai,385,12
+P1898,NONE,,False,openai,172,12
+P1899,NONE,,False,openai,166,12
+P1900,NONE,,False,openai,171,12
+P1901,NONE,,False,openai,183,12
+P1902,NONE,,False,openai,193,12
+P1903,SITUATION,you should get a different tablet,False,openai,211,20
+P1904,NONE,,False,openai,186,12
+P1905,NONE,,False,openai,187,12
+P1906,NONE,,False,openai,179,12
+P1907,NONE,,False,openai,178,12
+P1908,NONE,,False,openai,505,12
+P1909,SITUATION,Where is the Amazon brand case with a fitted snap-on hard back and a fold over cover that offers true protection?,False,openai,602,37
+P1910,NONE,,False,openai,167,12
+P1911,NONE,,False,openai,207,12
+P1912,NONE,,False,openai,188,12
+P1913,NONE,,False,openai,340,12
+P1914,NONE,,False,openai,169,12
+P1915,NONE,,False,openai,176,12
+P1916,NONE,,False,openai,220,12
+P1917,NONE,,False,openai,200,12
+P1918,NONE,,False,openai,189,12
+P1919,NONE,,False,openai,178,12
+P1920,NONE,,False,openai,211,12
+P1921,NONE,,False,openai,173,12
+P1922,NONE,,False,openai,223,12
+P1923,NONE,,False,openai,171,12
+P1924,NONE,,False,openai,196,12
+P1925,NONE,,False,openai,165,12
+P1926,SITUATION,"If you buy this for reading books, they really need to go back to the old 3/4 Gen HD Fire Tablets, as their screens are so much better.",False,openai,471,48
+P1927,BEHAVIOR,I should have read the reviews,False,openai,272,20
+P1928,NONE,,False,openai,177,12
+P1929,NONE,,False,openai,177,12
+P1930,SITUATION,the charging port should be something more simple,False,openai,197,22
+P1931,SITUATION,that was the reason for me to buy this tablet,False,openai,182,24
+P1932,NONE,,False,openai,240,12
+P1933,NONE,,False,openai,182,12
+P1934,NONE,,False,openai,223,12
+P1935,NONE,,False,openai,171,12
+P1936,NONE,,False,openai,200,12
+P1937,NONE,,False,openai,166,12
+P1938,NONE,,False,openai,171,12
+P1939,NONE,,False,openai,169,12
+P1940,NONE,,False,openai,170,12
+P1941,NONE,,False,openai,174,12
+P1942,NONE,,False,openai,198,12
+P1943,NONE,,False,openai,176,12
+P1944,NONE,,False,openai,170,12
+P1945,NONE,,False,openai,265,12
+P1946,NONE,,False,openai,175,12
+P1947,NONE,,False,openai,187,12
+P1948,NONE,,False,openai,249,12
+P1949,NONE,,False,openai,173,12
+P1950,NONE,,False,openai,202,12
+P1951,NONE,,False,openai,206,12
+P1952,NONE,,False,openai,191,12
+P1953,NONE,,False,openai,171,12
+P1954,NONE,,False,openai,174,12
+P1955,NONE,,False,openai,181,12
+P1956,NONE,,False,openai,227,12
+P1957,NONE,,False,openai,205,12
+P1958,NONE,,False,openai,199,12
+P1959,NONE,,False,openai,192,12
+P1960,NONE,,False,openai,174,12
+P1961,NONE,,False,openai,164,12
+P1962,SITUATION,Was hoping it was more of android style,False,openai,175,22
+P1963,NONE,,False,openai,273,12
+P1964,NONE,,False,openai,176,12
+P1965,SITUATION,"to have ads with no option to disable them, seems unreasonable and like a rip-off",False,openai,400,31
+P1966,NONE,,False,openai,328,12
+P1967,NONE,,False,openai,194,12
+P1968,SITUATION,Unlike the sales associate told me. Very disappointing!!!,False,openai,241,24
+P1969,NONE,,False,openai,252,12
+P1970,NONE,,False,openai,163,12
+P1971,NONE,,False,openai,169,12
+P1972,SITUATION,This model doesn't have a back light so I'm unable to read at night without turning on a light and waking up my husband.,False,openai,216,39
+P1973,NONE,,False,openai,168,12
+P1974,BEHAVIOR,I would buy one which the screen is brighter,False,openai,183,23
+P1975,NONE,,False,openai,170,12
+P1976,NONE,,False,openai,181,12
+P1977,SITUATION,Disappointed to realize there is not a light for night reading.,False,openai,172,27
+P1978,SITUATION,"There is no backlight, so not good for reading in dark",False,openai,188,27
+P1979,NONE,,False,openai,167,12
+P1980,NONE,,False,openai,205,12
+P1981,SITUATION,I wish it had more storage,False,openai,195,20
+P1982,NONE,,False,openai,187,12
+P1983,SITUATION,Just want one that works. Can't get upgrade replacement,False,openai,198,24
+P1984,NONE,,False,openai,194,12
+P1985,NONE,,False,openai,210,12
+P1986,SITUATION,no backlight and the screen could be better,False,openai,172,23
+P1987,SITUATION,I wish you could buy them with larger storage without having to buy the larger size pad.,False,openai,263,32
+P1988,NONE,,False,openai,185,12
+P1989,SITUATION,The screen size could be bigger like the earlier versions of kindle.,False,openai,166,27
+P1990,NONE,,False,openai,165,12
+P1991,NONE,,False,openai,239,12
+P1992,NONE,,False,openai,199,12
+P1993,NONE,,False,openai,176,12
+P1994,BEHAVIOR,I chose to take the chance so I'm angry with myself,False,openai,259,25
+P1995,SITUATION,Amazon needs to re-visit its refurbishment process and quality control,False,openai,280,26
+P1996,BEHAVIOR,I probably should have just bought it new,False,openai,299,22
+P1997,SITUATION,I wish you didn't have to pay to have the ad's disabled,False,openai,208,27
+P1998,NONE,,False,openai,226,12
+P1999,SITUATION,"I think the adapter should last longer than that. Preferably, Amazon could/should have come up with an interface that allows the use of adapters we already have - like for our phones or iPods.",False,openai,389,55
+P2000,NONE,,False,openai,257,12
+P2001,NONE,,False,openai,214,12
+P2002,NONE,,False,openai,189,12
+P2003,NONE,,False,openai,252,12
+P2004,NONE,,False,openai,169,12
+P2005,NONE,,False,openai,169,12
+P2006,NONE,,False,openai,187,12
+P2007,NONE,,False,openai,182,12
+P2008,NONE,,False,openai,167,12
+P2009,NONE,,False,openai,168,12
+P2010,NONE,,False,openai,250,12
+P2011,BEHAVIOR,I probobly expected too much,False,openai,182,21
+P2012,NONE,,False,openai,173,12
+P2013,BEHAVIOR,Next time I'll get what she wants and not waste my money.,False,openai,205,27
+P2014,NONE,,False,openai,192,12
+P2015,NONE,,False,openai,173,12
+P2016,NONE,,False,openai,224,12
+P2017,NONE,,False,openai,166,12
+P2018,SITUATION,I wish I could replace for a new one.,False,openai,286,24

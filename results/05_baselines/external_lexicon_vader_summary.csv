@@ -1,0 +1,2 @@
+dataset,n,lexicon_regret_n,lexicon_regret_pct,ci95,vader_compound_mean,spearman_vader_vs_rating
+external,500,6,1.2,"[0.6%, 2.6%]",0.259,0.248

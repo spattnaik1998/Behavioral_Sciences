@@ -1,0 +1,6 @@
+timestamp,part,budget_usd,spent_this_session_usd,status,backend
+2026-10-13T19:08:45,part1_core,3,1.37,complete,openai
+2026-10-13T19:45:51,part2_speculative,7,4.91,complete,openai
+2026-10-13T22:10:51,part3_robustness,10,8.3,complete,openai
+2026-10-13T22:43:50,part2_speculative,7,0.12,complete,openai
+2026-10-15T01:42:28,part4_decomposition,5,4.08,complete,openai

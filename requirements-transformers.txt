@@ -1,0 +1,3 @@
+# Optional: transformer baselines (zero-shot NLI, RoBERTa). Runs on CPU, faster with an NVIDIA GPU.
+torch
+transformers>=4.40

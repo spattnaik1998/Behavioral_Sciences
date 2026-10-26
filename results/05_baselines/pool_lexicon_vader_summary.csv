@@ -1,0 +1,2 @@
+dataset,n,lexicon_regret_n,lexicon_regret_pct,ci95,vader_compound_mean,spearman_vader_vs_rating
+pool,2019,30,1.49,"[1.0%, 2.1%]",0.017,0.365

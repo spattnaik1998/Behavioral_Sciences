@@ -1,0 +1,7 @@
+,rds_counterfactual,rds_responsibility,rds_controllability,rds_affect,rds_paper,reviews.rating
+rds_counterfactual,1.0,0.429,0.393,0.091,0.566,0.062
+rds_responsibility,0.429,1.0,0.693,-0.268,0.777,0.28
+rds_controllability,0.393,0.693,1.0,-0.389,0.888,0.353
+rds_affect,0.091,-0.268,-0.389,1.0,-0.557,-0.67
+rds_paper,0.566,0.777,0.888,-0.557,1.0,0.48
+reviews.rating,0.062,0.28,0.353,-0.67,0.48,1.0

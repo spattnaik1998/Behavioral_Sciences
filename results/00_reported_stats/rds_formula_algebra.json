@@ -1,0 +1,11 @@
+{
+  "paper_formula": "Regret=0.4CF+0.3R+0.3C ; Disap=0.4A+0.3(8-R)+0.3(8-C) ; RDS=Regret-Disap",
+  "closed_form": "RDS = 0.4*CF + 0.6*R + 0.6*C - 0.4*A - 4.8",
+  "max_abs_difference_over_all_2401_inputs": 2.6645352591003757e-15,
+  "range_of_RDS": [
+    -6.0,
+    6.0
+  ],
+  "value_when_all_dimensions_at_midpoint_4": 0.0,
+  "implication": "The reverse-scoring (8 - x) does not add information: responsibility and controllability enter with total weight 0.6 each, counterfactual +0.4, affect -0.4. The score is a fixed linear index whose weights the authors chose; it is zero at the scale midpoint."
+}

@@ -1,0 +1,16 @@
+task,model,reviews,calls,tokens_in,tokens_out,usd_indicative
+C0_labels_only,gpt-4o,2019,2019,241948,90855,1.51
+C1_definitions,gpt-4o,2019,2019,319679,90855,1.71
+C2_rag_only,gpt-4o,2019,2019,1517451,90855,4.7
+C3_rag_full,gpt-4o,2019,2019,1595183,90855,4.9
+C4 drafter,gpt-4o-mini,2019,8076,4523252,484560,0.97
+C4 verifier,gpt-4o,2019,8076,1565417,64608,4.56
+C4 verifier,gpt-4o,2019,8076,1181807,8076,3.04
+R0 original replication,gpt-4o,2019,2019,1790521,40380,4.88
+stability reruns,gpt-4o,200,400,314432,18000,0.97
+RDS,gpt-4o,2019,2019,260624,60570,1.26
+CF focus,gpt-4o,2019,2019,411039,70665,1.73
+external C1,gpt-4o,500,500,82181,22500,0.43
+external C3,gpt-4o,500,500,398056,22500,1.22
+external RDS,gpt-4o,500,500,67556,15000,0.32
+embeddings (reviews + KB),text-embedding-3-small,2019,0,223512,0,0.0

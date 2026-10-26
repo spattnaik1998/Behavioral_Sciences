@@ -1,0 +1,17 @@
+# Core requirements for the revision pipeline (local CPU run; Python 3.10+)
+openai>=1.40
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+statsmodels>=0.14
+faiss-cpu>=1.8
+pypdf>=4.0
+langchain-text-splitters>=0.2
+openpyxl>=3.1
+vaderSentiment>=3.3
+krippendorff>=0.6
+lingua-language-detector>=2.0
+matplotlib>=3.8
+tqdm
+ipywidgets

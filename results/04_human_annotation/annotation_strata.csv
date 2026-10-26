@@ -1,0 +1,6 @@
+stratum,description,N_in_pool,n_coded
+S1_C3_regret,C3 (proposed RAG) says REGRET,89,32
+S2_C4_only_regret,"Speculative RAG says REGRET, C3 says DISAPPOINTMENT",215,54
+S3_R0_only_regret,"Original pipeline says REGRET, C3 and C4 say DISAPPOINTMENT",291,58
+S4_lexicon_only,"Explicit regret phrase, all LLM systems say DISAPPOINTMENT",0,0
+S0_rest,All other reviews,1424,141

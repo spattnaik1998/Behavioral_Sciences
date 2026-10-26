@@ -1,0 +1,13 @@
+dataset,external sample (devices)
+n_reviews,500
+n_products,14
+date_min,2015-03-20
+date_max,2017-12-17
+words_mean,41.0
+words_median,28.0
+words_p10,11.0
+words_p90,80.0
+rating_1_n,86
+rating_2_n,84
+rating_3_n,330
+lang_english_n,500

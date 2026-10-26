@@ -1,0 +1,5 @@
+A,B,n,acc_A,acc_B,only_A_right,only_B_right,p
+C1_definitions,C3_rag_full,260,0.95,0.923,8,1,0.0390625
+C3_rag_full,C4_speculative,260,0.923,0.785,40,4,1.7051434042514302e-08
+R0_original_replication,C3_rag_full,260,0.654,0.923,6,76,1.5686991122453906e-16
+C0_labels_only,C1_definitions,260,0.962,0.95,3,0,0.25

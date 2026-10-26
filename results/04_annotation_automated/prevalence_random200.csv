@@ -1,0 +1,11 @@
+labeler,n,n_regret,pct_regret,ci95
+annotator A,200,7,3.5,"[1.7, 7.0]"
+annotator B,200,17,8.5,"[5.4, 13.2]"
+A and B agree,186,5,2.7,"[1.2, 6.1]"
+C0_labels_only,200,3,1.5,"[0.5, 4.3]"
+C1_definitions,200,3,1.5,"[0.5, 4.3]"
+C2_rag_only,200,9,4.5,"[2.4, 8.3]"
+C3_rag_full,200,7,3.5,"[1.7, 7.0]"
+C4_speculative,200,30,15.0,"[10.7, 20.6]"
+R0_original_replication,200,43,21.5,"[16.4, 27.7]"
+B1_lexicon,200,1,0.5,"[0.1, 2.8]"

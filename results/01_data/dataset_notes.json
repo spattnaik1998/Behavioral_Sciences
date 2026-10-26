@@ -1,0 +1,10 @@
+{
+  "language": "All 2,019 reviews are English. The automatic detector (lingua) flagged 27 reviews as non-English; manual inspection shows all 27 are very short English texts (e.g. 'ok', 'Goof', 'Yep', 'Batteries die fast').",
+  "short_reviews": {
+    "n_reviews_<=3_words": 84,
+    "pct": 4.2,
+    "n_reviews_<=5_words": 185
+  },
+  "verified_purchase": "reviews.didPurchase is missing for all 2,019 reviews, so purchase verification cannot be reported.",
+  "paper_section_3_1_correction": "The paper describes a 5,000-row, 24-column file (Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv; 314 reviews rated <=3). The analysis actually used Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv (28,332 rows, 24 columns)."
+}

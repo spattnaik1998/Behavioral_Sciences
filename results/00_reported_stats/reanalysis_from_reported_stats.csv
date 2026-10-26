@@ -1,0 +1,21 @@
+statistic,value
+internal_consistency,"{'overall_mean_reported': -2.22, 'overall_mean_implied_by_group_stats': -2.2224, 'overall_sd_reported': 1.78, 'overall_sd_implied_by_group_stats': 1.653300720597216, 'student_t_reported': 1.79, 'student_t_implied_by_group_stats': np.float64(1.9331624311017948), 'pooled_sd_needed_to_get_reported_t': 1.7613475296813506, 'verdict': 'Group means are consistent with the overall mean, but the reported group SDs (1.69, 1.62) imply an overall SD of ~1.65 and t = 1.93 (p = 0.056), not the reported SD 1.78 and t = 1.790 (p = 0.0765). The reported t and overall SD are mutually consistent with a pooled SD of ~1.76, so the group SDs printed in Section 4.4 / Figure 4 are probably mis-transcribed. Resolve by recomputing from the raw results file.'}"
+student_t_recomputed,1.933
+student_p_recomputed,0.056
+student_ci95_mean_diff,"[-0.023, 1.743]"
+welch_t,1.878
+welch_df,20.596
+welch_p,0.075
+welch_ci95_mean_diff,"[-0.094, 1.814]"
+mean_diff,0.860
+cohens_d,0.527
+cohens_d_ci95,"[-0.012, 1.067]"
+hedges_g,0.523
+power_observed_design_at_d,0.482
+n_needed_80pct_power_same_16_84_ratio,"[34, 178]"
+n_needed_80pct_power_balanced,"[58, 58]"
+power_full_pool_2019_at_observed_d,1.000
+power_full_pool_2019_at_d_0.2,0.909
+min_detectable_d_full_pool_80pct,0.175
+rating_corr_r,0.637
+rating_corr_fisher_ci95,"[0.504, 0.741]"

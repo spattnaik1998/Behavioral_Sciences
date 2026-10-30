@@ -42,13 +42,27 @@ NAMES = {"C0_labels_only": "C0 Labels only", "C1_definitions": "C1 Definitions",
 
 
 # --------------------------------------------------------------------------
-def build_table() -> pd.DataFrame:
+def build_table(attention_s1: bool = False) -> pd.DataFrame:
+    """The 385 study reviews (default), or, with attention_s1=True, the attention checks drawn from stratum S1.
+
+    Both annotators coded the attention checks blind, like every other review. The six from S1 were chosen as
+    clear regret, so leaving them out would bias S1's regret share downward; they enter the pool-level
+    estimates only (POOL_EXTRA), never the unweighted 372-review gold set."""
     a, b = R2._read("1"), R2._read("2")
     att = pd.read_csv(C.DATA_DIR / "attention_checks_round2.csv")
     keep = ["review_uid", "primary_emotion", "forced_choice", "cf_focus", *DIMS, "certainty"]
     m = a[keep].merge(b[keep], on="review_uid", suffixes=("_h1", "_h2"))
-    m = m[~m["review_uid"].isin(att["review_uid"])]
     s = pd.read_csv(C.DATA_DIR / "annotation_set_round2.csv")
+    if attention_s1:
+        import annotation as A_
+        pool = pd.read_csv(C.DATA_DIR / "pool.csv")
+        pool = pool.assign(stratum=A_.assign_strata(pool))
+        pa = pool[pool["review_uid"].isin(att["review_uid"]) & (pool["stratum"] == "S1_C3_regret")]
+        s = pa[["review_uid", "stratum", "reviews.rating", "primaryCategories"]].assign(
+            gold_origin="attention_check_S1", stratum_N=int((pool["stratum"] == "S1_C3_regret").sum()))
+        m = m[m["review_uid"].isin(s["review_uid"])]
+    else:
+        m = m[~m["review_uid"].isin(att["review_uid"])]
     pm = pd.read_csv(C.RESULTS_DIR / "03_llm_outputs" / "pool_master.csv")
     lex = pd.read_csv(C.RESULTS_DIR / "05_baselines" / "pool_lexicon_vader.csv")[["review_uid", "lexicon_label"]]
     m = m.merge(s, on="review_uid").merge(pm, on="review_uid", suffixes=("", "_pool")).merge(lex, on="review_uid")
@@ -91,6 +105,23 @@ def weighted_metrics(y, p, w):
     return acc, prec, rec, f1
 
 
+POOL_EXTRA = pd.DataFrame()   # gold-labelled S1 attention checks, set in run()
+
+
+def pool_frame(d: pd.DataFrame, col: str | None = None) -> pd.DataFrame:
+    """Rows for pool-level estimates: the gold set plus the gold-labelled S1 attention checks, with weights."""
+    x = POOL_EXTRA.dropna(subset=["gold"] + ([col] if col else [])) if len(POOL_EXTRA) else POOL_EXTRA
+    out = pd.concat([d, x], ignore_index=True) if len(x) else d.copy()
+    return out.assign(weight=gold_weights(out))
+
+
+def gold_weights(d: pd.DataFrame) -> pd.Series:
+    """w_h = N_h / m_h, where N_h is the stratum's size in the 2019-review pool and m_h the number of
+    gold-labelled reviews from that stratum. Every gold-labelled review in stratum h gets w_h."""
+    m_h = d.groupby("stratum")["review_uid"].transform("size")
+    return d["stratum_N"] / m_h
+
+
 def strat_boot(df, col, ref, n=2000, seed=C.SEED):
     rng = np.random.default_rng(seed); res = []
     groups = [g for _, g in df.groupby("stratum")]
@@ -119,22 +150,92 @@ def system_metrics(m, systems, ref="gold", subset_name="all agreed"):
              "n_regret_ref": int(yt.sum()), "n_regret_pred": int(yp.sum()), "tp": tp, "fp": fp, "fn": fn,
              "accuracy": met["accuracy"], "accuracy_ci95": met.get("accuracy_ci95"),
              "kappa": met["kappa_vs_human"], "kappa_ci95": met.get("kappa_vs_human_ci95"),
-             "macro_f1": met["macro_f1"], "balanced_accuracy": bal,
-             "precision_regret": tp / (tp + fp) if tp + fp else np.nan, "recall_regret": tp / (tp + fn) if tp + fn else np.nan,
+             "macro_f1": met["macro_f1"], "macro_f1_ci95": met.get("macro_f1_ci95"),
+             "balanced_accuracy": bal, "balanced_accuracy_ci95": met.get("balanced_accuracy_ci95"),
+             "precision_regret": tp / (tp + fp) if tp + fp else np.nan, "precision_regret_ci95": met.get("precision_REGRET_ci95"),
+             "recall_regret": tp / (tp + fn) if tp + fn else np.nan, "recall_regret_ci95": met.get("recall_REGRET_ci95"),
              "f1_regret": met["f1_REGRET"], "f1_regret_ci95": met.get("f1_REGRET_ci95")}
         if subset_name == "all agreed" and ref == "gold" and len(d) == len(d0):
+            # Pool weights: stratum pool size / number of gold-labelled (agreed) reviews in that stratum,
+            # the same weights the prevalence estimate uses (Reviewer 3, third round, comment 1).
+            d = pool_frame(d, k)
             wa, wp, wr, wf = weighted_metrics(d[ref], d[k], d["weight"])
             r.update({"w_accuracy": wa, "w_precision": wp, "w_recall": wr, "w_f1": wf, **strat_boot(d, k, ref)})
         rows.append(r)
     return pd.DataFrame(rows)
 
 
+def supplementary_tables(m, g, met):
+    """Third-round requests of Reviewer 3: weighting procedure, minority-class intervals, four-way label."""
+    # (a) stratum table: everything needed to reproduce the pool-level estimates by hand
+    st = m.groupby("stratum").agg(N_pool=("stratum_N", "first"), n_coded=("review_uid", "size"))
+    pf = pool_frame(g)
+    st["n_attention_checks_used"] = pf[pf.gold_origin == "attention_check_S1"].groupby("stratum").size()
+    st["n_gold"] = pf.groupby("stratum").size()
+    st["n_regret_gold"] = pf[pf.gold == "REGRET"].groupby("stratum").size()
+    st = st.fillna(0).astype({"n_gold": int, "n_regret_gold": int, "n_attention_checks_used": int})
+    st["n_random_coded"] = m[m.random].groupby("stratum").size().reindex(st.index).fillna(0).astype(int)
+    st["weight_w_h"] = st.N_pool / st.n_gold
+    st["regret_rate_in_stratum"] = st.n_regret_gold / st.n_gold
+    st["estimated_regret_in_pool"] = st.N_pool * st.regret_rate_in_stratum
+    tot = st.sum(numeric_only=True); tot[["weight_w_h", "regret_rate_in_stratum"]] = np.nan
+    st.loc["TOTAL"] = tot
+    st.loc["TOTAL", "regret_rate_in_stratum"] = st.loc["TOTAL", "estimated_regret_in_pool"] / st.loc["TOTAL", "N_pool"]
+    st.to_csv(OUT / "H_stratum_weights.csv")
+    # (b) Table 5 with every interval, plus macro-F1 and balanced accuracy (supplementary table)
+    cols = ["system", "name", "n", "n_regret_ref", "n_regret_pred", "tp", "fp", "fn",
+            "accuracy", "accuracy_ci95", "kappa", "kappa_ci95",
+            "precision_regret", "precision_regret_ci95", "recall_regret", "recall_regret_ci95",
+            "f1_regret", "f1_regret_ci95", "macro_f1", "macro_f1_ci95", "balanced_accuracy", "balanced_accuracy_ci95",
+            "w_accuracy", "w_accuracy_ci95", "w_precision", "w_precision_ci95", "w_recall", "w_recall_ci95",
+            "w_f1", "w_f1_ci95"]
+    sel = met[(met.reference == "gold") & (met.subset == "all agreed")]
+    sel[[c for c in cols if c in sel]].to_csv(OUT / "J_metrics_with_all_intervals.csv", index=False)
+    # per-stratum confusion counts: with H_stratum_weights.csv these reproduce every pool-weighted metric
+    rows = []
+    for k in sel.system:
+        for h, d in pool_frame(m.dropna(subset=["gold", k]), k).groupby("stratum"):
+            yt, yp = d.gold == "REGRET", d[k] == "REGRET"
+            rows.append({"system": k, "stratum": h, "n_gold": len(d), "tp": int((yt & yp).sum()), "fp": int((~yt & yp).sum()),
+                         "fn": int((yt & ~yp).sum()), "tn": int((~yt & ~yp).sum())})
+    pd.DataFrame(rows).to_csv(OUT / "K_confusion_by_stratum.csv", index=False)
+    # (c) four-way primary emotion versus the binary forced choice
+    from statsmodels.stats.proportion import proportion_confint
+    rows = []
+    for sub, d in [("random 200", m[m.random]), ("all 385", m)]:
+        a = d.dropna(subset=["gold_primary"])
+        for lab, cnt in a.gold_primary.value_counts().items():
+            lo, hi = proportion_confint(cnt, len(a), method="wilson")
+            rows.append({"subset": sub, "n_primary_agreed": len(a), "primary_emotion": lab, "n": int(cnt),
+                         "pct": 100 * cnt / len(a), "ci95": f"[{100*lo:.1f}, {100*hi:.1f}]"})
+        ct = pd.crosstab(d.gold_primary, d.gold).reset_index().assign(subset=sub)
+        ct.to_csv(OUT / f"I_primary_by_forced_choice_{sub.replace(' ', '_')}.csv", index=False)
+    pd.DataFrame(rows).to_csv(OUT / "I_fourway_primary_emotion.csv", index=False)
+
+
+def BC_fit_predict(train: pd.DataFrame, test: pd.DataFrame) -> np.ndarray:
+    """B3 labels for reviews outside the 372: the same TF-IDF model, trained on all 372 gold reviews."""
+    from sklearn.feature_extraction.text import TfidfVectorizer
+    from sklearn.linear_model import LogisticRegression
+    from sklearn.pipeline import make_pipeline
+    if test.empty:
+        return np.array([], dtype=object)
+    mdl = make_pipeline(TfidfVectorizer(ngram_range=(1, 2), min_df=1, sublinear_tf=True),
+                        LogisticRegression(class_weight="balanced", max_iter=2000, C=1.0))
+    mdl.fit(train["reviews.text"], train["gold"])
+    return mdl.predict(test["reviews.text"])
+
+
 def run():
     OUT.mkdir(parents=True, exist_ok=True)
+    global POOL_EXTRA
     m = build_table(); res = {}
     m.to_csv(OUT / "merged_round2.csv", index=False)
     g = m.dropna(subset=["gold"])
     pool = pd.read_csv(C.DATA_DIR / "pool.csv")
+    POOL_EXTRA = build_table(attention_s1=True)
+    POOL_EXTRA.to_csv(OUT / "merged_attention_S1.csv", index=False)
+    g = g.assign(weight=gold_weights(pd.concat([g, POOL_EXTRA.dropna(subset=["gold"])]))[: len(g)].values)
     g[["review_uid", "gold", "gold_source", "gold_primary", "stratum", "weight", "gold_origin"]].rename(
         columns={"gold": "forced_choice", "gold_primary": "primary_emotion"}).merge(
         pool[["review_uid", "reviews.text"]], on="review_uid").to_csv(C.DATA_DIR / "gold_labels_round2.csv", index=False)
@@ -158,12 +259,21 @@ def run():
     # 2. prevalence
     rnd = g[g.random]; k = int((rnd.gold == "REGRET").sum()); lo, hi = S.wilson_ci(k, len(rnd))
     N = len(pool)
-    by = g.groupby("stratum").apply(lambda d: pd.Series({"N": d["stratum_N"].iloc[0], "p": (d.gold == "REGRET").mean(), "n": len(d)}))
+    by = pool_frame(g).groupby("stratum").apply(lambda d: pd.Series({"N": d["stratum_N"].iloc[0], "p": (d.gold == "REGRET").mean(), "n": len(d)}))
     p_w = float((by.N * by.p).sum() / by.N.sum())
-    se = float(np.sqrt(((by.N / by.N.sum()) ** 2 * by.p * (1 - by.p) / by.n).sum()))
+    # interval: bootstrap that resamples reviews within each stratum (same scheme as the weighted metrics)
+    pf = pool_frame(g); rng = np.random.default_rng(C.SEED); bs = []
+    grp = {h: (d.gold == "REGRET").values for h, d in pf.groupby("stratum")}
+    for _ in range(2000):
+        bs.append(sum(by.N[h] * rng.choice(v, len(v), replace=True).mean() for h, v in grp.items()) / by.N.sum())
+    # S0 has no regret among its annotated reviews, so it adds no sampling variance; report the pool share
+    # if S0's regret share were at the upper Wilson bound for 0 of n
+    s0_hi = S.wilson_ci(0, int(by.n["S0_rest"]))[1] if "S0_rest" in by.index else np.nan
+    p_s0hi = float((by.N * by.p.where(by.index != "S0_rest", s0_hi)).sum() / by.N.sum())
     res["prevalence"] = {"random_n": len(rnd), "random_regret": k, "random_pct": 100 * k / len(rnd),
                          "random_ci95": [100 * lo, 100 * hi], "weighted_pct": 100 * p_w,
-                         "weighted_ci95": [100 * max(0, p_w - 1.96 * se), 100 * (p_w + 1.96 * se)],
+                         "weighted_ci95": [100 * float(np.percentile(bs, 2.5)), 100 * float(np.percentile(bs, 97.5))],
+                         "weighted_pct_if_S0_at_wilson_upper": 100 * p_s0hi, "S0_wilson_upper_pct": 100 * s0_hi,
                          "random_primary_counts": m[m.random].gold_primary.value_counts().to_dict()}
     rows = []
     for sys in FULL + ["B1_lexicon"]:
@@ -176,6 +286,9 @@ def run():
                       .assign(**{"reviews.text": lambda d: d["reviews.text"]}) if "reviews.text" in g else
                       g.rename(columns={"gold": "forced_choice"}).merge(pool[["review_uid", "reviews.text"]], on="review_uid"))
     m = m.merge(tf[["review_uid", "label"]].rename(columns={"label": "B3_tfidf_logreg_cv"}), on="review_uid", how="left")
+    POOL_EXTRA = POOL_EXTRA.assign(B3_tfidf_logreg_cv=BC_fit_predict(
+        g.drop(columns="reviews.text", errors="ignore").merge(pool[["review_uid", "reviews.text"]], on="review_uid"),
+        POOL_EXTRA.drop(columns="reviews.text", errors="ignore").merge(pool[["review_uid", "reviews.text"]], on="review_uid")))
     extra = ["B3_tfidf_logreg_cv"]
     for k, f in [("B5_roberta_cv", "gold_roberta_cv.csv"), ("B6_roberta_silver", "gold_roberta_silver.csv")]:
         p = C.RESULTS_DIR / "05_baselines" / f
@@ -196,6 +309,7 @@ def run():
         tabs.append(system_metrics(m, FULL + ["B1_lexicon"], ref, "all 385, single annotator"))
     met = pd.concat(tabs, ignore_index=True)
     met.to_csv(OUT / "C_system_metrics.csv", index=False)
+    supplementary_tables(m, g, met)
 
     # 5. McNemar on correctness vs gold
     mc = []

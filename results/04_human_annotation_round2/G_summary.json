@@ -22,11 +22,13 @@
    0.7843781102347624,
    5.053412097713616
   ],
-  "weighted_pct": 2.175104448716403,
+  "weighted_pct": 2.358912387457003,
   "weighted_ci95": [
-   1.4264205822457094,
-   2.9237883151870965
+   1.6559414881929937,
+   3.1273151510110897
   ],
+  "weighted_pct_if_S0_at_wilson_upper": 4.229495296823924,
+  "S0_wilson_upper_pct": 2.6521818075925645,
   "random_primary_counts": {
    "DISAPPOINTMENT": 157,
    "NEITHER": 22,

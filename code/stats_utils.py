@@ -208,7 +208,12 @@ def _fast_metrics(yt_pos, yp_pos, yp_valid):
         p_h = yt_pos.mean(1); p_p = yp_pos.mean(1); p_pd = (yp_valid & ~yp_pos).mean(1)
         pe = p_h * p_p + (1 - p_h) * p_pd
         kap = (po - pe) / (1 - pe)
-    return {"accuracy": acc, "macro_f1": (f1_r + f1_d) / 2, "kappa_vs_human": kap, "f1_REGRET": f1_r}
+        prec_r = np.where(tp + fp > 0, tp / np.maximum(tp + fp, 1), np.nan)
+        rec_r = np.where(tp + fn > 0, tp / np.maximum(tp + fn, 1), np.nan)
+        n_neg = (~yt_pos).sum(1)
+        spec = np.where(n_neg > 0, tn / np.maximum(n_neg, 1), np.nan)
+    return {"accuracy": acc, "macro_f1": (f1_r + f1_d) / 2, "kappa_vs_human": kap, "f1_REGRET": f1_r,
+            "precision_REGRET": prec_r, "recall_REGRET": rec_r, "balanced_accuracy": (rec_r + spec) / 2}
 
 
 def metrics_with_ci(y_true, y_pred, seed=C.SEED, n_boot=4000) -> dict:
